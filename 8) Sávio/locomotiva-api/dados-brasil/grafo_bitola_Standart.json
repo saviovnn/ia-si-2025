@@ -1,0 +1,25 @@
+{
+  "bitola": "Standart",
+  "total_cidades": 5,
+  "total_conexoes": 4,
+  "grafo": {
+    "Santana_AP": {
+      "Macapá_AP": 28.32
+    },
+    "Pedra Branca do Amapari_AP": {
+      "Porto Grande_AP": 65.78,
+      "Serra do Navio_AP": 13.33
+    },
+    "Serra do Navio_AP": {
+      "Pedra Branca do Amapari_AP": 13.33
+    },
+    "Porto Grande_AP": {
+      "Pedra Branca do Amapari_AP": 65.78,
+      "Macapá_AP": 81.24
+    },
+    "Macapá_AP": {
+      "Santana_AP": 28.32,
+      "Porto Grande_AP": 81.24
+    }
+  }
+}

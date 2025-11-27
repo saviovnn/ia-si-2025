@@ -1,0 +1,3536 @@
+{
+  "bitola": "Larga",
+  "total_cidades": 851,
+  "total_conexoes": 943,
+  "grafo": {
+    "Leme_SP": {
+      "Araras_SP": 24.2,
+      "Pirassununga_SP": 18.06
+    },
+    "Descalvado_SP": {
+      "Porto Ferreira_SP": 12.89
+    },
+    "Eldorado do Sul_RS": {
+      "Triunfo_RS": 8.81,
+      "Guaíba_RS": 9.6
+    },
+    "Monte Aprazível_SP": {
+      "Tanabi_SP": 12.7,
+      "Bálsamo_SP": 5.88
+    },
+    "Nova Odessa_SP": {
+      "Americana_SP": 8.44,
+      "Sumaré_SP": 7.01
+    },
+    "Aliança do Tocantins_TO": {
+      "Gurupi_TO": 49.4,
+      "Crixás do Tocantins_TO": 17.45
+    },
+    "Gaspar_SC": {
+      "Blumenau_SC": 14.04,
+      "Ilhota_SC": 13.92
+    },
+    "Matias Barbosa_MG": {
+      "Simão Pereira_RJ": 9.66,
+      "Juiz de Fora_MG": 29.72
+    },
+    "São João de Meriti_RJ": {
+      "Rio de Janeiro_RJ": 9.25,
+      "Mesquita_RJ": 3.26,
+      "Belford Roxo_RJ": 7.08
+    },
+    "Rio Verde_GO": {
+      "Santa Helena de Goiás_GO": 65.24,
+      "Quirinópolis_GO": 53.32
+    },
+    "São Joaquim de Bicas_MG": {
+      "Brumadinho_MG": 21.1,
+      "Mário Campos_MG": 4.84
+    },
+    "Nova Iguaçu_RJ": {
+      "Queimados_RJ": 0.16,
+      "Rio de Janeiro_RJ": 12.17,
+      "Belford Roxo_RJ": 0.55,
+      "Mesquita_RJ": 8.45,
+      "Japeri_RJ": 7.28
+    },
+    "Porto Murtinho_MS": {
+      "Caracol_MS": 64.16
+    },
+    "Caibi_SC": {
+      "Palmitos_SC": 5.55,
+      "Vicente Dutra_RS": 12.35
+    },
+    "Valença_RJ": {
+      "Vassouras_RJ": 21.99
+    },
+    "Cascavel_PR": {
+      "Cascavel_PR": 33.27,
+      "Santa Tereza do Oeste_PR": 17.59,
+      "Toledo_PR": 38.85,
+      "Corbélia_PR": 12.92,
+      "Catanduvas_PR": 5.7
+    },
+    "Buriticupu_MA": {
+      "Bom Jardim_MA": 2.04,
+      "Bom Jesus das Selvas_MA": 34.97,
+      "Alto Alegre do Pindaré_MA": 49.75
+    },
+    "Lucas do Rio Verde_MT": {
+      "Sorriso_MT": 37.21,
+      "Lucas do Rio Verde_MT": 27.73,
+      "Nova Mutum_MT": 40.16
+    },
+    "Sebastião Leal_PI": {
+      "Landri Sales_PI": 8.68,
+      "Uruçuí_PI": 54.66,
+      "Bertolínia_PI": 25.83
+    },
+    "Flores do Piauí_PI": {
+      "Pajeú do Piauí_PI": 7.87,
+      "Ribeira do Piauí_PI": 12.7,
+      "Itaueira_PI": 18.03
+    },
+    "Belo Horizonte_MG": {
+      "Contagem_MG": 3.81,
+      "Ibirité_MG": 6.35,
+      "Nova Lima_MG": 0.12,
+      "Belo Horizonte_MG": 6.0,
+      "Sabará_MG": 7.77,
+      "Santa Luzia_MG": 12.35
+    },
+    "Herculândia_SP": {
+      "Quintana_SP": 10.62,
+      "Tupã_SP": 19.24
+    },
+    "Campos Belos_GO": {
+      "Lavandeira_TO": 4.35,
+      "Combinado_TO": 6.39
+    },
+    "Campos Novos_SC": {
+      "Vargem_SC": 0.22,
+      "Brunópolis_SC": 28.65,
+      "Erval Velho_SC": 0.2
+    },
+    "Xaxim_SC": {
+      "Arvoredo_SC": 1.18,
+      "Chapecó_SC": 17.46,
+      "Lajeado Grande_SC": 6.42,
+      "Cordilheira Alta_SC": 7.94
+    },
+    "Água Doce_PR": {
+      "Palmas_PR": 18.71,
+      "General Carneiro_PR": 23.5
+    },
+    "Itapejara d'Oeste_PR": {
+      "Bom Sucesso do Sul_PR": 3.67,
+      "Verê_PR": 14.36
+    },
+    "Terra Roxa_PR": {
+      "Mercedes_PR": 15.22,
+      "Guaíra_PR": 21.71
+    },
+    "Trindade_GO": {
+      "Santa Bárbara de Goiás_GO": 0.59,
+      "Goianira_GO": 21.7
+    },
+    "Itaguaí_RJ": {
+      "Rio de Janeiro_RJ": 2.33,
+      "Itaguaí_RJ": 8.62,
+      "Seropédica_RJ": 15.88,
+      "Mangaratiba_RJ": 17.0
+    },
+    "Rio de Janeiro_RJ": {
+      "São João de Meriti_RJ": 9.25,
+      "Nova Iguaçu_RJ": 12.17,
+      "Itaguaí_RJ": 2.33,
+      "Nilópolis_RJ": 27.11,
+      "Rio de Janeiro_RJ": 3.07
+    },
+    "Brasília_DF": {
+      "Santo Antônio do Descoberto_GO": 32.35,
+      "Brasília_DF": 56.75,
+      "Cristalina_GO": 47.94
+    },
+    "Ribeira do Piauí_PI": {
+      "Flores do Piauí_PI": 12.7,
+      "São José do Peixe_PI": 15.62
+    },
+    "Ouro Verde de Goiás_GO": {
+      "Damolândia_GO": 2.47,
+      "Anápolis_GO": 1.88,
+      "Petrolina de Goiás_GO": 4.97,
+      "Ouro Verde de Goiás_GO": 5.73
+    },
+    "Jequié_BA": {
+      "Itagi_BA": 46.83,
+      "Aiquara_BA": 1.39,
+      "Manoel Vitorino_BA": 76.76
+    },
+    "Lavandeira_TO": {
+      "Campos Belos_GO": 4.35,
+      "Combinado_TO": 12.72,
+      "São Desidério_BA": 48.96,
+      "Arraias_TO": 51.92
+    },
+    "Niterói_RJ": {
+      "Niterói_RJ": 0.34,
+      "São Gonçalo_RJ": 10.77
+    },
+    "Arcoverde_PE": {
+      "Arcoverde_PE": 3.87,
+      "Buíque_PE": 4.45
+    },
+    "Coronel Martins_SC": {
+      "Galvão_SC": 10.28,
+      "Santiago do Sul_SC": 10.98
+    },
+    "Curitibanos_SC": {
+      "Curitibanos_SC": 17.29,
+      "Ponte Alta do Norte_SC": 2.32,
+      "Santa Cecília_SC": 17.11,
+      "Brunópolis_SC": 17.18,
+      "São Cristóvão do Sul_SC": 15.36
+    },
+    "Paragominas_PA": {
+      "Ulianópolis_PA": 75.3,
+      "Ipixuna do Pará_PA": 59.7
+    },
+    "Monção_MA": {
+      "Igarapé do Meio_MA": 2.87,
+      "Santa Inês_MA": 10.87
+    },
+    "Cordeirópolis_SP": {
+      "Araras_SP": 18.87,
+      "Santa Gertrudes_SP": 9.04,
+      "Limeira_SP": 15.09
+    },
+    "Antônio Carlos_MG": {
+      "Barbacena_MG": 17.09,
+      "Santos Dumont_MG": 26.12
+    },
+    "Jaboticaba_RS": {
+      "Boa Vista das Missões_RS": 6.93,
+      "Pinhal_RS": 10.12
+    },
+    "Itabirito_MG": {
+      "Ouro Preto_MG": 16.77,
+      "Rio Acima_MG": 12.87
+    },
+    "Sanharó_PE": {
+      "São Bento do Una_PE": 15.0,
+      "Sanharó_PE": 1.24,
+      "Pesqueira_PE": 6.34
+    },
+    "Joaquim Nabuco_PE": {
+      "Joaquim Nabuco_PE": 0.06,
+      "Palmares_PE": 11.59,
+      "Água Preta_PE": 1.28
+    },
+    "Serra Talhada_PE": {
+      "Calumbi_PE": 15.73,
+      "São José do Belmonte_PE": 23.08
+    },
+    "Mariópolis_PR": {
+      "Clevelândia_PR": 22.83,
+      "Pato Branco_PR": 3.29,
+      "Jupiá_SC": 6.12,
+      "Vitorino_PR": 3.77
+    },
+    "Araquari_SC": {
+      "Balneário Barra do Sul_SC": 4.22,
+      "Barra Velha_SC": 17.2
+    },
+    "Flores_PE": {
+      "Custódia_PE": 31.66,
+      "Calumbi_PE": 16.97
+    },
+    "Juranda_PR": {
+      "Ubiratã_PR": 21.72,
+      "Boa Esperança_PR": 2.74
+    },
+    "Ubiratã_PR": {
+      "Juranda_PR": 21.72,
+      "Iguatu_PR": 7.25
+    },
+    "Rio das Pedras_SP": {
+      "Mombuca_SP": 12.79,
+      "Piracicaba_SP": 12.75
+    },
+    "Arantina_MG": {
+      "Bom Jardim de Minas_MG": 9.67,
+      "Andrelândia_MG": 16.11
+    },
+    "Água Preta_PE": {
+      "Joaquim Nabuco_PE": 1.28,
+      "Água Preta_PE": 2.45,
+      "Gameleira_PE": 3.74
+    },
+    "São Pedro dos Crentes_MA": {
+      "Sítio Novo_MA": 11.94,
+      "Feira Nova do Maranhão_MA": 14.27,
+      "Formosa da Serra Negra_MA": 1.43,
+      "Estreito_MA": 49.37
+    },
+    "Cidelândia_MA": {
+      "Vila Nova dos Martírios_MA": 40.97,
+      "Açailândia_MA": 25.02
+    },
+    "Balneário Camboriú_SC": {
+      "Camboriú_SC": 0.12
+    },
+    "Coluna_MG": {
+      "São João Evangelista_MG": 7.47,
+      "Rio Vermelho_MG": 27.35
+    },
+    "Santa Bárbara de Goiás_GO": {
+      "Trindade_GO": 0.59,
+      "Palmeiras de Goiás_GO": 5.45
+    },
+    "Queimados_RJ": {
+      "Nova Iguaçu_RJ": 0.16,
+      "Japeri_RJ": 3.88
+    },
+    "Calumbi_PE": {
+      "Serra Talhada_PE": 15.73,
+      "Flores_PE": 16.97
+    },
+    "Manoel Emídio_PI": {
+      "Colônia do Gurguéia_PI": 12.3,
+      "Bertolínia_PI": 13.36
+    },
+    "Nova Independência_SP": {
+      "Monte Castelo_SP": 1.21,
+      "Castilho_SP": 0.36
+    },
+    "Vassouras_RJ": {
+      "Valença_RJ": 21.99,
+      "Barra do Piraí_RJ": 10.99,
+      "Paraíba do Sul_RJ": 21.82
+    },
+    "Rianápolis_GO": {
+      "Jaraguá_GO": 32.16,
+      "Santa Isabel_GO": 18.65
+    },
+    "Ibirité_MG": {
+      "Belo Horizonte_MG": 6.35,
+      "Sarzedo_MG": 11.6
+    },
+    "Agrestina_PE": {
+      "São Joaquim do Monte_PE": 9.23,
+      "Altinho_PE": 19.16
+    },
+    "Congonhas_MG": {
+      "Conselheiro Lafaiete_MG": 0.42,
+      "Ouro Preto_MG": 9.43,
+      "Jeceaba_MG": 2.58,
+      "Congonhas_MG": 2.25,
+      "Ouro Branco_MG": 1.84
+    },
+    "Guanambi_BA": {
+      "Caetité_BA": 46.05,
+      "Palmas de Monte Alto_BA": 43.13
+    },
+    "Quirinópolis_GO": {
+      "Rio Verde_GO": 53.32,
+      "Quirinópolis_GO": 0.02,
+      "Paranaiguara_GO": 44.06
+    },
+    "Alexânia_GO": {
+      "Abadiânia_GO": 30.13,
+      "Santo Antônio do Descoberto_GO": 23.67
+    },
+    "Belmiro Braga_MG": {
+      "Simão Pereira_RJ": 0.27,
+      "Comendador Levy Gasparian_RJ": 4.32
+    },
+    "Cachoeirinha_PE": {
+      "São Caitano_PE": 8.48,
+      "São Bento do Una_PE": 18.0
+    },
+    "Pirassununga_SP": {
+      "Leme_SP": 18.06,
+      "Pirassununga_SP": 11.62,
+      "Santa Cruz das Palmeiras_SP": 14.57,
+      "Porto Ferreira_SP": 10.08
+    },
+    "Buíque_PE": {
+      "Arcoverde_PE": 4.45,
+      "Sertânia_PE": 26.6,
+      "Pedra_PE": 10.92
+    },
+    "Nilópolis_RJ": {
+      "Rio de Janeiro_RJ": 27.11,
+      "Mesquita_RJ": 3.28
+    },
+    "Araras_SP": {
+      "Leme_SP": 24.2,
+      "Cordeirópolis_SP": 18.87
+    },
+    "Anápolis_GO": {
+      "Ouro Verde de Goiás_GO": 1.88,
+      "Goianápolis_GO": 21.71,
+      "Abadiânia_GO": 28.87,
+      "Anápolis_GO": 8.3,
+      "Campo Limpo de Goiás_GO": 9.86
+    },
+    "Mombuca_SP": {
+      "Rio das Pedras_SP": 12.79,
+      "Capivari_SP": 5.55
+    },
+    "Brumadinho_MG": {
+      "São Joaquim de Bicas_MG": 21.1,
+      "Brumadinho_MG": 0.79,
+      "Moeda_MG": 22.41
+    },
+    "Brunópolis_SC": {
+      "Campos Novos_SC": 28.65,
+      "Curitibanos_SC": 17.18
+    },
+    "São Miguel do Fidalgo_PI": {
+      "São José do Peixe_PI": 21.1,
+      "Simplício Mendes_PI": 4.44,
+      "Paes Landim_PI": 3.91
+    },
+    "Belford Roxo_RJ": {
+      "São João de Meriti_RJ": 7.08,
+      "Nova Iguaçu_RJ": 0.55,
+      "Duque de Caxias_RJ": 10.51
+    },
+    "Canarana_MT": {
+      "Gaúcha do Norte_MT": 110.31,
+      "Água Boa_MT": 67.79
+    },
+    "Cândido Rodrigues_SP": {
+      "Fernando Prestes_SP": 9.04,
+      "Taquaritinga_SP": 15.48
+    },
+    "Mercedes_PR": {
+      "Terra Roxa_PR": 15.22,
+      "Marechal Cândido Rondon_PR": 10.19
+    },
+    "Arabutã_SC": {
+      "Concórdia_SC": 21.48,
+      "Seara_SC": 13.2
+    },
+    "Rondonópolis_MT": {
+      "Itiquira_MT": 108.66,
+      "Rondonópolis_MT": 6.7,
+      "Santo Antônio do Leverger_MT": 20.59
+    },
+    "Alto Araguaia_MT": {
+      "Alto Araguaia_MT": 20.18,
+      "Alto Taquari_MT": 47.67,
+      "Alto Garças_MT": 1.13,
+      "Itiquira_MT": 80.19
+    },
+    "Simão Pereira_RJ": {
+      "Matias Barbosa_MG": 9.66,
+      "Belmiro Braga_MG": 0.27,
+      "Santana do Deserto_RJ": 8.39,
+      "Comendador Levy Gasparian_RJ": 7.68
+    },
+    "Engenheiro Beltrão_PR": {
+      "Quinta do Sol_PR": 4.29,
+      "Itambé_PR": 8.86
+    },
+    "Contagem_MG": {
+      "Belo Horizonte_MG": 3.81,
+      "Contagem_MG": 1.57,
+      "Betim_MG": 8.33
+    },
+    "Anajatuba_MA": {
+      "Itapecuru Mirim_MA": 1.05
+    },
+    "Três Fronteiras_SP": {
+      "Santana da Ponte Pensa_SP": 9.58,
+      "Santa Fé do Sul_SP": 11.43
+    },
+    "Livramento de Nossa Senhora_BA": {
+      "Brumado_BA": 0.05
+    },
+    "Altônia_PR": {
+      "Pérola_PR": 23.63,
+      "Mundo Novo_MS": 2.5,
+      "Guaíra_PR": 2.02
+    },
+    "Brumado_BA": {
+      "Livramento de Nossa Senhora_BA": 0.05,
+      "Lagoa Real_BA": 12.79,
+      "Tanhaçu_BA": 62.07
+    },
+    "Caieiras_SP": {
+      "Franco da Rocha_SP": 0.22,
+      "São Paulo_SP": 15.75
+    },
+    "Panorama_SP": {
+      "Paulicéia_SP": 4.21,
+      "Presidente Venceslau_SP": 17.5,
+      "Ouro Verde_SP": 11.22,
+      "Santa Mercedes_SP": 21.82,
+      "Brasilândia_MS": 35.96
+    },
+    "Jundiaí_SP": {
+      "Louveira_SP": 9.19,
+      "Jundiaí_SP": 3.27,
+      "Várzea Paulista_SP": 0.44,
+      "Campo Limpo Paulista_SP": 5.02
+    },
+    "Bom Jardim_MA": {
+      "Buriticupu_MA": 2.04
+    },
+    "Dom Eliseu_PA": {
+      "Itinga do Maranhão_MA": 10.51
+    },
+    "Balneário Piçarras_SC": {
+      "Barra Velha_SC": 11.2,
+      "Penha_SC": 6.68
+    },
+    "São Miguel do Iguaçu_PR": {
+      "Serranópolis do Iguaçu_PR": 9.76,
+      "Foz do Iguaçu_PR": 25.3,
+      "Santa Terezinha de Itaipu_PR": 21.68
+    },
+    "Rio do Antônio_BA": {
+      "Lagoa Real_BA": 13.53,
+      "Ibiassucê_BA": 18.26
+    },
+    "Paulistana_PI": {
+      "São Francisco de Assis do Piauí_PI": 48.34,
+      "Paulistana_PI": 37.38,
+      "Curral Novo do Piauí_PI": 10.67
+    },
+    "São Tiago_MG": {
+      "Conceição da Barra de Minas_MG": 12.07,
+      "Bom Sucesso_MG": 12.75
+    },
+    "Bonito_PE": {
+      "Palmares_PE": 17.08,
+      "Belém de Maria_PE": 12.29
+    },
+    "Caetité_BA": {
+      "Guanambi_BA": 46.05,
+      "Ibiassucê_BA": 31.89
+    },
+    "Marília_SP": {
+      "Vera Cruz_SP": 18.1,
+      "Oriente_SP": 17.53
+    },
+    "Santa Isabel_GO": {
+      "Rianápolis_GO": 18.65,
+      "Goianésia_GO": 10.88
+    },
+    "Unaí_MG": {
+      "Paracatu_MG": 57.29,
+      "Natalândia_MG": 63.02,
+      "Cristalina_GO": 78.16
+    },
+    "Santarém_PA": {
+      "Belterra_PA": 80.47
+    },
+    "Guaíra_PR": {
+      "Terra Roxa_PR": 21.71,
+      "Altônia_PR": 2.02,
+      "Mundo Novo_MS": 19.58
+    },
+    "Santo Antônio do Leverger_MT": {
+      "Rondonópolis_MT": 20.59,
+      "Jaciara_MT": 2.79,
+      "Nossa Senhora do Livramento_MT": 44.84,
+      "Juscimeira_MT": 18.21
+    },
+    "Nova Alvorada do Sul_MS": {
+      "Rio Brilhante_MS": 26.97,
+      "Campo Grande_MS": 49.85
+    },
+    "Jeceaba_MG": {
+      "Congonhas_MG": 2.58,
+      "Jeceaba_MG": 2.94,
+      "Belo Vale_MG": 18.17,
+      "São Brás do Suaçuí_MG": 5.73
+    },
+    "Governador Edison Lobão_MA": {
+      "Ribamar Fiquene_MA": 28.15,
+      "Imperatriz_MA": 16.52
+    },
+    "Sorriso_MT": {
+      "Lucas do Rio Verde_MT": 37.21,
+      "Sinop_MT": 62.36,
+      "Nova Ubiratã_MT": 83.3
+    },
+    "Uruaçu_GO": {
+      "Uruaçu_GO": 26.75,
+      "Santa Rita do Novo Destino_GO": 8.71,
+      "Campinorte_GO": 45.5
+    },
+    "Santo André_SP": {
+      "Cubatão_SP": 8.53,
+      "Rio Grande da Serra_SP": 7.81,
+      "Mauá_SP": 7.4,
+      "São Caetano do Sul_SP": 5.6
+    },
+    "Iturama_MG": {
+      "União de Minas_MG": 37.94,
+      "Ouroeste_SP": 32.79
+    },
+    "Brejinho de Nazaré_TO": {
+      "Crixás do Tocantins_TO": 15.82,
+      "Fátima_TO": 26.15
+    },
+    "Mundo Novo_MS": {
+      "Altônia_PR": 2.5,
+      "Guaíra_PR": 19.58,
+      "Eldorado_MS": 22.39
+    },
+    "Novo Progresso_PA": {
+      "Altamira_PA": 47.69,
+      "Itaituba_PA": 160.87,
+      "Guarantã do Norte_MT": 61.45
+    },
+    "Palmeira das Missões_RS": {
+      "Condor_RS": 0.49,
+      "Boa Vista das Missões_RS": 25.45,
+      "Dois Irmãos das Missões_RS": 28.9
+    },
+    "Mendes_RJ": {
+      "Engenheiro Paulo de Frontin_RJ": 10.01,
+      "Barra do Piraí_RJ": 12.27
+    },
+    "Cunha Porã_SC": {
+      "Maravilha_SC": 8.22,
+      "Saudades_SC": 4.14,
+      "Palmitos_SC": 2.49
+    },
+    "Santa Maria da Boa Vista_PE": {
+      "Curaçá_BA": 24.93,
+      "Lagoa Grande_PE": 20.54,
+      "Orocó_PE": 31.39
+    },
+    "Várzea Paulista_SP": {
+      "Jundiaí_SP": 0.44,
+      "Campo Limpo Paulista_SP": 7.25
+    },
+    "Liberato Salzano_RS": {
+      "Trindade do Sul_RS": 0.67,
+      "Rodeio Bonito_RS": 6.01
+    },
+    "Jupiá_SC": {
+      "Mariópolis_PR": 6.12,
+      "Galvão_SC": 0.09
+    },
+    "General Carneiro_PR": {
+      "Água Doce_PR": 23.5,
+      "Matos Costa_SC": 1.13,
+      "Porto União_SC": 1.03
+    },
+    "Japeri_RJ": {
+      "Nova Iguaçu_RJ": 7.28,
+      "Queimados_RJ": 3.88,
+      "Paracambi_RJ": 15.21
+    },
+    "Santa Mercedes_SP": {
+      "Panorama_SP": 21.82,
+      "Paulicéia_SP": 5.24,
+      "São João do Pau d'Alho_SP": 9.45
+    },
+    "São José do Belmonte_PE": {
+      "Serra Talhada_PE": 23.08,
+      "Verdejante_PE": 27.93
+    },
+    "Estreito_MA": {
+      "São Pedro dos Crentes_MA": 49.37,
+      "Porto Franco_MA": 21.09,
+      "Aguiarnópolis_TO": 36.19
+    },
+    "Inúbia Paulista_SP": {
+      "Osvaldo Cruz_SP": 9.92,
+      "Lucélia_SP": 7.69
+    },
+    "Cláudia_MT": {
+      "Sinop_MT": 29.27,
+      "Itaúba_MT": 35.72
+    },
+    "Itaquaquecetuba_SP": {
+      "Poá_SP": 4.13,
+      "Itaquaquecetuba_SP": 5.07,
+      "São Paulo_SP": 20.92,
+      "Guarulhos_SP": 10.79,
+      "Mogi das Cruzes_SP": 17.32
+    },
+    "Estrela d'Oeste_SP": {
+      "Fernandópolis_SP": 11.53,
+      "Estrela d'Oeste_SP": 4.52,
+      "Jales_SP": 12.28
+    },
+    "Tufilândia_MA": {
+      "Pindaré-Mirim_MA": 14.4,
+      "Alto Alegre do Pindaré_MA": 52.16
+    },
+    "Canas_SP": {
+      "Lorena_SP": 7.97,
+      "Cachoeira Paulista_SP": 6.71
+    },
+    "Matupá_MT": {
+      "Peixoto de Azevedo_MT": 14.29,
+      "Guarantã do Norte_MT": 40.6
+    },
+    "Brotas_SP": {
+      "Itirapina_SP": 18.7
+    },
+    "Quatis_RJ": {
+      "Resende_RJ": 18.73,
+      "Barra Mansa_RJ": 5.0
+    },
+    "Orocó_PE": {
+      "Santa Maria da Boa Vista_PE": 31.39,
+      "Cabrobó_PE": 36.44
+    },
+    "Panambi_RS": {
+      "Condor_RS": 21.69,
+      "Pejuçara_RS": 21.48
+    },
+    "Lages_SC": {
+      "São José do Cerrito_SC": 33.86
+    },
+    "Nossa Senhora do Livramento_MT": {
+      "Santo Antônio do Leverger_MT": 44.84,
+      "Várzea Grande_MT": 7.03
+    },
+    "Itinga do Maranhão_MA": {
+      "Dom Eliseu_PA": 10.51,
+      "Açailândia_MA": 31.87,
+      "Ulianópolis_PA": 35.53
+    },
+    "Santa Fé do Sul_SP": {
+      "Três Fronteiras_SP": 11.43,
+      "Rubinéia_SP": 9.34
+    },
+    "São Lourenço do Oeste_SC": {
+      "Novo Horizonte_SC": 4.05,
+      "Formosa do Sul_SC": 8.97,
+      "Vitorino_PR": 5.6
+    },
+    "Paranatinga_MT": {
+      "Nova Ubiratã_MT": 81.12,
+      "Gaúcha do Norte_MT": 89.9
+    },
+    "Costa Rica_MS": {
+      "Mineiros_GO": 14.67,
+      "Alto Taquari_MT": 48.6,
+      "Chapadão do Sul_MS": 1.01
+    },
+    "Bom Jesus da Lapa_BA": {
+      "Riacho de Santana_BA": 32.28,
+      "Serra do Ramalho_BA": 41.01
+    },
+    "Almeirim_PA": {
+      "Almeirim_PA": 18.35
+    },
+    "Jardim_MS": {
+      "Bela Vista_MS": 9.38,
+      "Guia Lopes da Laguna_MS": 42.15
+    },
+    "Guia Lopes da Laguna_MS": {
+      "Jardim_MS": 42.15,
+      "Nioaque_MS": 1.17,
+      "Maracaju_MS": 38.23
+    },
+    "Ponte Alta_SC": {
+      "Pouso Redondo_SC": 18.41,
+      "São Cristóvão do Sul_SC": 7.29
+    },
+    "Navegantes_SC": {
+      "Itajaí_SC": 2.03,
+      "Penha_SC": 4.79,
+      "Ilhota_SC": 8.21
+    },
+    "Cristiano Otoni_MG": {
+      "Caranaíba_MG": 6.27,
+      "Carandaí_MG": 13.52,
+      "Conselheiro Lafaiete_MG": 19.36
+    },
+    "Tomé-Açu_PA": {
+      "Ipixuna do Pará_PA": 57.61,
+      "Acará_PA": 19.28
+    },
+    "Açailândia_MA": {
+      "Cidelândia_MA": 25.02,
+      "Itinga do Maranhão_MA": 31.87,
+      "São Francisco do Brejão_MA": 3.1,
+      "Bom Jesus das Selvas_MA": 52.84
+    },
+    "Vargem_SC": {
+      "Campos Novos_SC": 0.22,
+      "São José do Cerrito_SC": 35.74
+    },
+    "Boa Esperança_PR": {
+      "Juranda_PR": 2.74,
+      "Mamborê_PR": 10.06
+    },
+    "Pajeú do Piauí_PI": {
+      "Flores do Piauí_PI": 7.87
+    },
+    "Santa Maria da Vitória_BA": {
+      "Correntina_BA": 33.84,
+      "São Desidério_BA": 88.12
+    },
+    "Altamira_PA": {
+      "Novo Progresso_PA": 47.69
+    },
+    "Paulicéia_SP": {
+      "Panorama_SP": 4.21,
+      "Santa Mercedes_SP": 5.24,
+      "Paulicéia_SP": 0.98
+    },
+    "Vitorino_PR": {
+      "Mariópolis_PR": 3.77,
+      "São Lourenço do Oeste_SC": 5.6,
+      "Renascença_PR": 5.55,
+      "Pato Branco_PR": 4.16
+    },
+    "Sandovalina_SP": {
+      "Mirante do Paranapanema_SP": 16.85,
+      "Pirapozinho_SP": 3.54
+    },
+    "Franco da Rocha_SP": {
+      "Caieiras_SP": 0.22,
+      "Mairiporã_SP": 7.17,
+      "Francisco Morato_SP": 6.64
+    },
+    "Santa Helena de Goiás_GO": {
+      "Rio Verde_GO": 65.24,
+      "Turvelândia_GO": 34.64
+    },
+    "Serranópolis do Iguaçu_PR": {
+      "São Miguel do Iguaçu_PR": 9.76,
+      "Medianeira_PR": 8.41,
+      "Capanema_PR": 21.61
+    },
+    "Doutor Pedrinho_SC": {
+      "José Boiteux_SC": 13.4,
+      "Benedito Novo_SC": 14.18
+    },
+    "Santa Cruz das Palmeiras_SP": {
+      "Pirassununga_SP": 14.57
+    },
+    "Piracicaba_SP": {
+      "Rio das Pedras_SP": 12.75,
+      "Piracicaba_SP": 12.3,
+      "Santa Bárbara d'Oeste_SP": 18.42
+    },
+    "São José_SC": {
+      "Biguaçu_SC": 18.08,
+      "Palhoça_SC": 22.29
+    },
+    "Governador Valadares_MG": {
+      "Coroaci_MG": 20.59
+    },
+    "Arambaré_RS": {
+      "Tapes_RS": 25.52,
+      "Camaquã_RS": 17.17
+    },
+    "Paraíso_SC": {
+      "São Miguel do Oeste_SC": 15.0,
+      "Paraíso_SC": 6.96,
+      "Guaraciaba_SC": 6.52
+    },
+    "Capanema_PR": {
+      "Serranópolis do Iguaçu_PR": 21.61,
+      "Planalto_PR": 15.82
+    },
+    "Planalto_PR": {
+      "Capanema_PR": 15.82,
+      "Pérola d'Oeste_PR": 12.91
+    },
+    "Nossa Senhora das Graças_PR": {
+      "Colorado_PR": 1.55
+    },
+    "Piratininga_SP": {
+      "Bauru_SP": 3.23
+    },
+    "Itaberaba_BA": {
+      "Ruy Barbosa_BA": 42.93,
+      "Iaçu_BA": 33.39
+    },
+    "Salgueiro_PE": {
+      "Cabrobó_PE": 38.31,
+      "Terra Nova_PE": 22.43,
+      "Verdejante_PE": 28.58,
+      "Penaforte_CE": 5.77
+    },
+    "Tapes_RS": {
+      "Arambaré_RS": 25.52,
+      "Barra do Ribeiro_RS": 32.24
+    },
+    "Abaetetuba_PA": {
+      "Moju_PA": 17.5,
+      "Barcarena_PA": 18.49
+    },
+    "Conselheiro Lafaiete_MG": {
+      "Congonhas_MG": 0.42,
+      "Cristiano Otoni_MG": 19.36,
+      "Conselheiro Lafaiete_MG": 0.17,
+      "Ouro Branco_MG": 0.59
+    },
+    "Itapema_SC": {
+      "Camboriú_SC": 5.26,
+      "Porto Belo_SC": 9.46
+    },
+    "Terra Nova_PE": {
+      "Salgueiro_PE": 22.43,
+      "Parnamirim_PE": 31.23
+    },
+    "Amaral Ferrador_RS": {
+      "Dom Feliciano_RS": 37.64,
+      "Cristal_RS": 17.84
+    },
+    "Rurópolis_PA": {
+      "Aveiro_PA": 34.88,
+      "Placas_PA": 43.89,
+      "Itaituba_PA": 26.98
+    },
+    "Cachoeira do Sul_RS": {
+      "Restinga Sêca_RS": 52.96,
+      "Rio Pardo_RS": 36.5
+    },
+    "Erval Velho_SC": {
+      "Campos Novos_SC": 0.2,
+      "Herval d'Oeste_SC": 11.94
+    },
+    "Cruz Alta_RS": {
+      "Pejuçara_RS": 27.92,
+      "Tupanciretã_RS": 41.64
+    },
+    "Mirante_BA": {
+      "Tanhaçu_BA": 0.78,
+      "Manoel Vitorino_BA": 34.46,
+      "Contendas do Sincorá_BA": 2.43
+    },
+    "Camboriú_SC": {
+      "Balneário Camboriú_SC": 0.12,
+      "Itapema_SC": 5.26,
+      "Itajaí_SC": 11.69
+    },
+    "Paes Landim_PI": {
+      "São Miguel do Fidalgo_PI": 3.91,
+      "Paes Landim_PI": 2.58,
+      "Simplício Mendes_PI": 13.11
+    },
+    "Manoel Vitorino_BA": {
+      "Jequié_BA": 76.76,
+      "Mirante_BA": 34.46
+    },
+    "Belo Vale_MG": {
+      "Jeceaba_MG": 18.17,
+      "Moeda_MG": 3.74
+    },
+    "Bom Sucesso_MG": {
+      "São Tiago_MG": 12.75
+    },
+    "Pinhalzinho_SC": {
+      "União do Oeste_SC": 9.74,
+      "Saudades_SC": 5.76,
+      "Nova Erechim_SC": 8.85
+    },
+    "Porto Vitória_PR": {
+      "União da Vitória_PR": 1.94,
+      "Porto União_SC": 2.87
+    },
+    "Caranaíba_MG": {
+      "Cristiano Otoni_MG": 6.27
+    },
+    "Abadiânia_GO": {
+      "Alexânia_GO": 30.13,
+      "Anápolis_GO": 28.87
+    },
+    "Cafezal do Sul_PR": {
+      "Perobal_PR": 10.61,
+      "Pérola_PR": 11.64
+    },
+    "Sud Mennucci_SP": {
+      "Pereira Barreto_SP": 29.06,
+      "Palmeira d'Oeste_SP": 20.6
+    },
+    "Moju_PA": {
+      "Abaetetuba_PA": 17.5,
+      "Acará_PA": 28.51
+    },
+    "Mara Rosa_GO": {
+      "Campinorte_GO": 30.89,
+      "Mutunópolis_GO": 17.52,
+      "Alto Horizonte_GO": 16.32
+    },
+    "Oliveira de Fátima_TO": {
+      "Fátima_TO": 24.19,
+      "Porto Nacional_TO": 23.01
+    },
+    "Petrolina de Goiás_GO": {
+      "Ouro Verde de Goiás_GO": 4.97,
+      "Petrolina de Goiás_GO": 14.69,
+      "São Francisco de Goiás_GO": 14.0
+    },
+    "São Pedro do Suaçuí_MG": {
+      "Peçanha_MG": 15.15,
+      "São José do Jacuri_MG": 9.73
+    },
+    "São João_PR": {
+      "São Jorge d'Oeste_PR": 6.72,
+      "Verê_PR": 11.34
+    },
+    "Foz do Iguaçu_PR": {
+      "São Miguel do Iguaçu_PR": 25.3,
+      "Foz do Iguaçu_PR": 22.06,
+      "Santa Terezinha de Itaipu_PR": 14.36
+    },
+    "Resende_RJ": {
+      "Quatis_RJ": 18.73,
+      "Passa Vinte_MG": 19.35,
+      "Queluz_SP": 12.76,
+      "Itatiaia_RJ": 13.9,
+      "Porto Real_RJ": 9.81
+    },
+    "Arari_MA": {
+      "Miranda do Norte_MA": 17.51,
+      "Vitória do Mearim_MA": 24.13
+    },
+    "Peçanha_MG": {
+      "São Pedro do Suaçuí_MG": 15.15,
+      "Virgolândia_MG": 15.41
+    },
+    "Maracaju_MS": {
+      "Guia Lopes da Laguna_MS": 38.23,
+      "Rio Brilhante_MS": 25.64,
+      "Maracaju_MS": 55.45,
+      "Itaporã_MS": 39.26
+    },
+    "Santa Fé_PR": {
+      "Colorado_PR": 12.77,
+      "Iguaraçu_PR": 1.31
+    },
+    "São Joaquim do Monte_PE": {
+      "Agrestina_PE": 9.23,
+      "Belém de Maria_PE": 6.98
+    },
+    "São João Evangelista_MG": {
+      "Coluna_MG": 7.47,
+      "São José do Jacuri_MG": 5.01
+    },
+    "São Jorge d'Oeste_PR": {
+      "São João_PR": 6.72,
+      "Dois Vizinhos_PR": 9.0
+    },
+    "Colômbia_SP": {
+      "Barretos_SP": 34.47
+    },
+    "Pederneiras_SP": {
+      "Jaú_SP": 30.91,
+      "Bauru_SP": 22.35
+    },
+    "Porangatu_GO": {
+      "Mutunópolis_GO": 54.58,
+      "Talismã_TO": 60.33
+    },
+    "Barretos_SP": {
+      "Colômbia_SP": 34.47,
+      "Colina_SP": 32.65
+    },
+    "Pompéia_SP": {
+      "Oriente_SP": 14.37,
+      "Quintana_SP": 12.04
+    },
+    "Pitangueiras_SP": {
+      "Sertãozinho_SP": 22.37,
+      "Bebedouro_SP": 35.99
+    },
+    "Queluz_SP": {
+      "Resende_RJ": 12.76,
+      "Lavrinhas_SP": 13.93
+    },
+    "São Carlos_SP": {
+      "Itirapina_SP": 26.79,
+      "Ibaté_SP": 20.19
+    },
+    "Trindade_PE": {
+      "Ouricuri_PE": 26.43,
+      "Trindade_PE": 6.58,
+      "Araripina_PE": 13.76
+    },
+    "Nova Iguaçu de Goiás_GO": {
+      "Pilar de Goiás_GO": 13.37,
+      "Alto Horizonte_GO": 15.74
+    },
+    "Bebedouro_SP": {
+      "Pitangueiras_SP": 35.99,
+      "Colina_SP": 25.28
+    },
+    "Paulo Lopes_SC": {
+      "Palhoça_SC": 22.59,
+      "Garopaba_SC": 11.84
+    },
+    "Simplício Mendes_PI": {
+      "São Miguel do Fidalgo_PI": 4.44,
+      "Paes Landim_PI": 13.11,
+      "Bela Vista do Piauí_PI": 8.62,
+      "Simplício Mendes_PI": 13.1
+    },
+    "Contendas do Sincorá_BA": {
+      "Mirante_BA": 2.43,
+      "Tanhaçu_BA": 2.74
+    },
+    "Alto Garças_MT": {
+      "Alto Araguaia_MT": 1.13
+    },
+    "Tupirama_TO": {
+      "Rio dos Bois_TO": 36.31,
+      "Guaraí_TO": 34.71
+    },
+    "Aruanã_GO": {
+      "Cocalinho_MT": 53.91
+    },
+    "Palmas de Monte Alto_BA": {
+      "Guanambi_BA": 43.13,
+      "Riacho de Santana_BA": 30.79
+    },
+    "Carandaí_MG": {
+      "Cristiano Otoni_MG": 13.52,
+      "Senhora dos Remédios_MG": 13.43
+    },
+    "Pacaembu_SP": {
+      "Flórida Paulista_SP": 12.7,
+      "Irapuru_SP": 9.48
+    },
+    "Pindorama_SP": {
+      "Santa Adélia_SP": 13.9,
+      "Catanduva_SP": 12.75
+    },
+    "Urânia_SP": {
+      "Jales_SP": 12.3,
+      "Santa Salete_SP": 9.41
+    },
+    "Campestre do Maranhão_MA": {
+      "Porto Franco_MA": 26.18,
+      "Ribamar Fiquene_MA": 24.93
+    },
+    "Bela Vista do Piauí_PI": {
+      "Simplício Mendes_PI": 8.62,
+      "Nova Santa Rita_PI": 9.88,
+      "Campo Alegre do Fidalgo_PI": 1.33
+    },
+    "Américo Brasiliense_SP": {
+      "Américo Brasiliense_SP": 2.8,
+      "Santa Lúcia_SP": 7.37,
+      "Araraquara_SP": 5.97
+    },
+    "Flórida Paulista_SP": {
+      "Pacaembu_SP": 12.7,
+      "Adamantina_SP": 13.31
+    },
+    "Ribamar Fiquene_MA": {
+      "Governador Edison Lobão_MA": 28.15,
+      "Campestre do Maranhão_MA": 24.93
+    },
+    "Itapecuru Mirim_MA": {
+      "Anajatuba_MA": 1.05,
+      "Miranda do Norte_MA": 5.98,
+      "Santa Rita_MA": 9.84
+    },
+    "Oriente_SP": {
+      "Marília_SP": 17.53,
+      "Pompéia_SP": 14.37
+    },
+    "Vera Cruz_SP": {
+      "Marília_SP": 18.1,
+      "Garça_SP": 15.14
+    },
+    "Toledo_PR": {
+      "Cascavel_PR": 38.85,
+      "Quatro Pontes_PR": 23.76
+    },
+    "Jaú_SP": {
+      "Pederneiras_SP": 30.91,
+      "Dois Córregos_SP": 27.84
+    },
+    "Santo Inácio_PR": {
+      "Pirapozinho_SP": 9.88,
+      "Colorado_PR": 0.68
+    },
+    "Combinado_TO": {
+      "Campos Belos_GO": 6.39,
+      "Lavandeira_TO": 12.72
+    },
+    "Imperatriz_MA": {
+      "Governador Edison Lobão_MA": 16.52,
+      "Davinópolis_MA": 0.88,
+      "João Lisboa_MA": 12.98,
+      "São Francisco do Brejão_MA": 17.58
+    },
+    "Avaí_SP": {
+      "Bauru_SP": 11.42,
+      "Gália_SP": 17.39
+    },
+    "Itaituba_PA": {
+      "Novo Progresso_PA": 160.87,
+      "Rurópolis_PA": 26.98,
+      "Trairão_PA": 20.62,
+      "Itaituba_PA": 19.58
+    },
+    "Crixás do Tocantins_TO": {
+      "Aliança do Tocantins_TO": 17.45,
+      "Brejinho de Nazaré_TO": 15.82
+    },
+    "Louveira_SP": {
+      "Jundiaí_SP": 9.19,
+      "Vinhedo_SP": 6.56
+    },
+    "Darcinópolis_TO": {
+      "Palmeiras do Tocantins_TO": 27.73,
+      "Babaçulândia_TO": 60.27
+    },
+    "Rio Claro_SP": {
+      "Santa Gertrudes_SP": 16.04,
+      "Ipeúna_SP": 2.62,
+      "Itirapina_SP": 16.16
+    },
+    "Porto Nacional_TO": {
+      "Oliveira de Fátima_TO": 23.01,
+      "Paraíso do Tocantins_TO": 16.45,
+      "Miracema do Tocantins_TO": 55.22
+    },
+    "Sapezal_MT": {
+      "Brasnorte_MT": 114.31,
+      "Campos de Júlio_MT": 106.56
+    },
+    "Colina_SP": {
+      "Barretos_SP": 32.65,
+      "Bebedouro_SP": 25.28
+    },
+    "Barbacena_MG": {
+      "Antônio Carlos_MG": 17.09,
+      "São João del Rei_MG": 0.11,
+      "Alfredo Vasconcelos_MG": 18.04
+    },
+    "Matos Costa_SC": {
+      "General Carneiro_PR": 1.13,
+      "Porto União_SC": 1.35
+    },
+    "Pato Branco_PR": {
+      "Mariópolis_PR": 3.29,
+      "Vitorino_PR": 4.16
+    },
+    "São Desidério_BA": {
+      "Lavandeira_TO": 48.96,
+      "Santa Maria da Vitória_BA": 88.12,
+      "Barreiras_BA": 52.48
+    },
+    "São Francisco de Assis do Piauí_PI": {
+      "Paulistana_PI": 48.34,
+      "São Francisco de Assis do Piauí_PI": 8.73,
+      "Campo Alegre do Fidalgo_PI": 9.81
+    },
+    "João Lisboa_MA": {
+      "Imperatriz_MA": 12.98
+    },
+    "Araraquara_SP": {
+      "Américo Brasiliense_SP": 5.97,
+      "Ibaté_SP": 19.03,
+      "Araraquara_SP": 18.13,
+      "Matão_SP": 24.45
+    },
+    "Jales_SP": {
+      "Estrela d'Oeste_SP": 12.28,
+      "Urânia_SP": 12.3,
+      "Pontalinda_SP": 1.61
+    },
+    "Loreto_MA": {
+      "Ribeiro Gonçalves_PI": 42.88,
+      "Sambaíba_MA": 35.82
+    },
+    "São Lourenço do Sul_RS": {
+      "Cristal_RS": 32.4,
+      "Turuçu_RS": 25.38
+    },
+    "Biguaçu_SC": {
+      "São José_SC": 18.08,
+      "Tijucas_SC": 20.98
+    },
+    "Riacho de Santana_BA": {
+      "Bom Jesus da Lapa_BA": 32.28,
+      "Palmas de Monte Alto_BA": 30.79
+    },
+    "Conceição do Tocantins_TO": {
+      "Arraias_TO": 60.64,
+      "Paranã_TO": 78.44
+    },
+    "Andrelândia_MG": {
+      "Arantina_MG": 16.11,
+      "São Vicente de Minas_MG": 6.41,
+      "Madre de Deus de Minas_MG": 15.75
+    },
+    "Maringá_PR": {
+      "Paiçandu_PR": 3.93,
+      "Floresta_PR": 10.65,
+      "Iguaraçu_PR": 12.31
+    },
+    "São Paulo_SP": {
+      "Caieiras_SP": 15.75,
+      "Itaquaquecetuba_SP": 20.92,
+      "Mairiporã_SP": 7.88,
+      "São Caetano do Sul_SP": 6.13,
+      "Guarulhos_SP": 9.48,
+      "São Vicente_SP": 17.2,
+      "Embu-Guaçu_SP": 20.12
+    },
+    "Davinópolis_MA": {
+      "Imperatriz_MA": 0.88
+    },
+    "Jacareí_SP": {
+      "São José dos Campos_SP": 22.29,
+      "Guararema_SP": 13.43
+    },
+    "Corinto_MG": {
+      "Três Marias_MG": 43.87
+    },
+    "Pelotas_RS": {
+      "Turuçu_RS": 20.19,
+      "Rio Grande_RS": 50.64
+    },
+    "Palmeiras de Goiás_GO": {
+      "Santa Bárbara de Goiás_GO": 5.45,
+      "Palmeiras de Goiás_GO": 5.22,
+      "Jandaia_GO": 25.66,
+      "Campestre de Goiás_GO": 5.29
+    },
+    "Roseira_SP": {
+      "Pindamonhangaba_SP": 13.73,
+      "Aparecida_SP": 7.73
+    },
+    "Iacri_SP": {
+      "Tupã_SP": 17.62,
+      "Parapuã_SP": 13.34
+    },
+    "Mirante do Paranapanema_SP": {
+      "Sandovalina_SP": 16.85,
+      "Santo Anastácio_SP": 17.92
+    },
+    "Bálsamo_SP": {
+      "Monte Aprazível_SP": 5.88,
+      "Mirassol_SP": 12.85
+    },
+    "Matão_SP": {
+      "Araraquara_SP": 24.45,
+      "Dobrada_SP": 13.05
+    },
+    "Santa Gertrudes_SP": {
+      "Cordeirópolis_SP": 9.04,
+      "Rio Claro_SP": 16.04
+    },
+    "Fernandópolis_SP": {
+      "Estrela d'Oeste_SP": 11.53,
+      "Meridiano_SP": 13.58,
+      "Guarani d'Oeste_SP": 10.55
+    },
+    "Miranda do Norte_MA": {
+      "Arari_MA": 17.51,
+      "Itapecuru Mirim_MA": 5.98
+    },
+    "Planalto_RS": {
+      "Nonoai_RS": 6.35
+    },
+    "Americana_SP": {
+      "Nova Odessa_SP": 8.44,
+      "Limeira_SP": 16.2,
+      "Santa Bárbara d'Oeste_SP": 11.13
+    },
+    "Torrinha_SP": {
+      "Dois Córregos_SP": 15.76
+    },
+    "Paraíba do Sul_RJ": {
+      "Vassouras_RJ": 21.82,
+      "Três Rios_RJ": 3.15,
+      "Areal_RJ": 6.63,
+      "Paraíba do Sul_RJ": 7.17
+    },
+    "Dois Córregos_SP": {
+      "Jaú_SP": 27.84,
+      "Torrinha_SP": 15.76
+    },
+    "Rio dos Bois_TO": {
+      "Tupirama_TO": 36.31,
+      "Miracema do Tocantins_TO": 60.51
+    },
+    "Votuporanga_SP": {
+      "Cosmorama_SP": 8.32,
+      "Valentim Gentil_SP": 16.98
+    },
+    "Campinas_SP": {
+      "Valinhos_SP": 12.89,
+      "Hortolândia_SP": 5.92,
+      "Paulínia_SP": 5.55,
+      "Sumaré_SP": 3.56,
+      "Indaiatuba_SP": 18.74,
+      "Campinas_SP": 13.57
+    },
+    "Bauru_SP": {
+      "Piratininga_SP": 3.23,
+      "Pederneiras_SP": 22.35,
+      "Avaí_SP": 11.42,
+      "Bauru_SP": 14.06
+    },
+    "Ipeúna_SP": {
+      "Rio Claro_SP": 2.62
+    },
+    "Tijucas_SC": {
+      "Biguaçu_SC": 20.98,
+      "Porto Belo_SC": 13.46
+    },
+    "Coroaci_MG": {
+      "Governador Valadares_MG": 20.59,
+      "Nacip Raydan_MG": 12.72
+    },
+    "Bonfinópolis de Minas_MG": {
+      "Brasilândia de Minas_MG": 15.49,
+      "Dom Bosco_MG": 20.34
+    },
+    "Itaperuna_RJ": {
+      "Italva_RJ": 41.6,
+      "Patrocínio do Muriaé_MG": 34.16
+    },
+    "Cianorte_PR": {
+      "Tuneiras do Oeste_PR": 24.3
+    },
+    "Turuçu_RS": {
+      "São Lourenço do Sul_RS": 25.38,
+      "Pelotas_RS": 20.19
+    },
+    "Comendador Levy Gasparian_RJ": {
+      "Belmiro Braga_MG": 4.32,
+      "Simão Pereira_RJ": 7.68,
+      "Santana do Deserto_RJ": 4.53,
+      "Três Rios_RJ": 5.97
+    },
+    "Dobrada_SP": {
+      "Matão_SP": 13.05,
+      "Santa Ernestina_SP": 7.81
+    },
+    "Ouro Preto_MG": {
+      "Itabirito_MG": 16.77,
+      "Congonhas_MG": 9.43,
+      "Ouro Preto_MG": 8.05
+    },
+    "Vazante_MG": {
+      "Paracatu_MG": 44.75,
+      "Lagoa Grande_MG": 17.09
+    },
+    "Corbélia_PR": {
+      "Cascavel_PR": 12.92,
+      "Anahy_PR": 2.03
+    },
+    "Marema_SC": {
+      "Quilombo_SC": 6.73,
+      "Lajeado Grande_SC": 6.85
+    },
+    "Goianápolis_GO": {
+      "Anápolis_GO": 21.71,
+      "Terezópolis de Goiás_GO": 8.17,
+      "Goiânia_GO": 10.92
+    },
+    "Tanabi_SP": {
+      "Monte Aprazível_SP": 12.7,
+      "Cosmorama_SP": 0.47
+    },
+    "Paracambi_RJ": {
+      "Japeri_RJ": 15.21,
+      "Engenheiro Paulo de Frontin_RJ": 12.74,
+      "Seropédica_RJ": 11.52
+    },
+    "Campos de Júlio_MT": {
+      "Sapezal_MT": 106.56,
+      "Comodoro_MT": 157.17
+    },
+    "Pontalinda_SP": {
+      "Jales_SP": 1.61,
+      "Dirce Reis_SP": 11.56
+    },
+    "Concórdia_SC": {
+      "Arabutã_SC": 21.48,
+      "Presidente Castello Branco_SC": 22.29
+    },
+    "Pavussu_PI": {
+      "Eliseu Martins_PI": 31.26,
+      "Rio Grande do Piauí_PI": 30.87
+    },
+    "Balneário Barra do Sul_SC": {
+      "Araquari_SC": 4.22,
+      "São Francisco do Sul_SC": 11.74
+    },
+    "Mineiros_GO": {
+      "Costa Rica_MS": 14.67,
+      "Chapadão do Sul_MS": 28.51
+    },
+    "Mirassol_SP": {
+      "Bálsamo_SP": 12.85,
+      "São José do Rio Preto_SP": 19.34
+    },
+    "Cruzeiro do Iguaçu_PR": {
+      "Dois Vizinhos_PR": 2.8,
+      "Quedas do Iguaçu_PR": 8.97
+    },
+    "Maravilha_SC": {
+      "Cunha Porã_SC": 8.22,
+      "Iraceminha_SC": 10.66
+    },
+    "Indaiatuba_SP": {
+      "Elias Fausto_SP": 16.08,
+      "Campinas_SP": 18.74,
+      "Salto_SP": 13.8
+    },
+    "Brasilândia de Minas_MG": {
+      "Bonfinópolis de Minas_MG": 15.49,
+      "Santa Fé de Minas_MG": 45.95
+    },
+    "Seara_SC": {
+      "Arabutã_SC": 13.2,
+      "Arvoredo_SC": 12.2
+    },
+    "Taubaté_SP": {
+      "Tremembé_SP": 8.93,
+      "Caçapava_SP": 14.2
+    },
+    "Farol_PR": {
+      "Campo Mourão_PR": 18.71,
+      "Mamborê_PR": 9.99
+    },
+    "Itapura_SP": {
+      "Andradina_SP": 11.23,
+      "Ilha Solteira_SP": 10.61
+    },
+    "Ipixuna do Pará_PA": {
+      "Paragominas_PA": 59.7,
+      "Tomé-Açu_PA": 57.61
+    },
+    "Curionópolis_PA": {
+      "Marabá_PA": 64.17,
+      "Parauapebas_PA": 10.64
+    },
+    "Itagi_BA": {
+      "Jequié_BA": 46.83,
+      "Aiquara_BA": 2.69
+    },
+    "Poá_SP": {
+      "Itaquaquecetuba_SP": 4.13,
+      "Suzano_SP": 11.82
+    },
+    "Nova Ubiratã_MT": {
+      "Sorriso_MT": 83.3,
+      "Paranatinga_MT": 81.12
+    },
+    "Pejuçara_RS": {
+      "Panambi_RS": 21.48,
+      "Cruz Alta_RS": 27.92,
+      "Bozano_RS": 8.49
+    },
+    "Itaboraí_RJ": {
+      "São Gonçalo_RJ": 11.98
+    },
+    "Caracol_MS": {
+      "Porto Murtinho_MS": 64.16,
+      "Bela Vista_MS": 34.72
+    },
+    "Brazabrantes_GO": {
+      "Nova Veneza_GO": 10.15,
+      "Goianira_GO": 11.47
+    },
+    "Santiago do Sul_SC": {
+      "Coronel Martins_SC": 10.98,
+      "Quilombo_SC": 10.21
+    },
+    "Taió_SC": {
+      "Santa Cecília_SC": 22.12,
+      "Rio do Campo_SC": 23.09
+    },
+    "Balsas_MA": {
+      "Sambaíba_MA": 43.71,
+      "Fortaleza dos Nogueiras_MA": 35.38
+    },
+    "Blumenau_SC": {
+      "Gaspar_SC": 14.04,
+      "Indaial_SC": 16.3
+    },
+    "Nova Erechim_SC": {
+      "Pinhalzinho_SC": 8.85,
+      "Nova Itaberaba_SC": 10.8
+    },
+    "Pereira Barreto_SP": {
+      "Sud Mennucci_SP": 29.06,
+      "Ilha Solteira_SP": 21.4
+    },
+    "Turvelândia_GO": {
+      "Santa Helena de Goiás_GO": 34.64,
+      "Acreúna_GO": 25.14
+    },
+    "Erval Seco_RS": {
+      "Seberi_RS": 13.85,
+      "Dois Irmãos das Missões_RS": 10.27
+    },
+    "Iraceminha_SC": {
+      "Maravilha_SC": 10.66,
+      "Flor do Sertão_SC": 6.33
+    },
+    "São Gonçalo_RJ": {
+      "Niterói_RJ": 10.77,
+      "Itaboraí_RJ": 11.98
+    },
+    "Ribeirão Pires_SP": {
+      "Rio Grande da Serra_SP": 5.13,
+      "Suzano_SP": 13.11,
+      "Mauá_SP": 6.95
+    },
+    "São Luís_MA": {
+      "Bacabeira_MA": 34.66,
+      "São Luís_MA": 2.2
+    },
+    "Piquerobi_SP": {
+      "Presidente Venceslau_SP": 15.64
+    },
+    "Guararema_SP": {
+      "Jacareí_SP": 13.43,
+      "Guararema_SP": 3.87,
+      "Mogi das Cruzes_SP": 12.24
+    },
+    "Santa Rita do Novo Destino_GO": {
+      "Uruaçu_GO": 8.71,
+      "São Luiz do Norte_GO": 16.3
+    },
+    "Pirapozinho_SP": {
+      "Sandovalina_SP": 3.54,
+      "Santo Inácio_PR": 9.88
+    },
+    "Indaial_SC": {
+      "Blumenau_SC": 16.3,
+      "Apiúna_SC": 17.21,
+      "Timbó_SC": 7.08
+    },
+    "Cosmorama_SP": {
+      "Votuporanga_SP": 8.32,
+      "Tanabi_SP": 0.47
+    },
+    "Peabiru_PR": {
+      "Campo Mourão_PR": 18.29,
+      "Quinta do Sol_PR": 5.21
+    },
+    "Lontras_SC": {
+      "Ibirama_SC": 3.3,
+      "Rio do Sul_SC": 9.93,
+      "Apiúna_SC": 2.94
+    },
+    "Andradina_SP": {
+      "Itapura_SP": 11.23,
+      "Castilho_SP": 29.0
+    },
+    "Campo Mourão_PR": {
+      "Farol_PR": 18.71,
+      "Peabiru_PR": 18.29
+    },
+    "Rio Pardo_RS": {
+      "Cachoeira do Sul_RS": 36.5,
+      "Encruzilhada do Sul_RS": 10.42
+    },
+    "Restinga Sêca_RS": {
+      "Cachoeira do Sul_RS": 52.96,
+      "Santa Maria_RS": 27.44
+    },
+    "Candeias_BA": {
+      "Simões Filho_BA": 6.39
+    },
+    "Parauapebas_PA": {
+      "Curionópolis_PA": 10.64,
+      "Parauapebas_PA": 21.8,
+      "Canaã dos Carajás_PA": 50.14
+    },
+    "Cardoso Moreira_RJ": {
+      "Campos dos Goytacazes_RJ": 26.49,
+      "Italva_RJ": 24.42
+    },
+    "São Francisco de Goiás_GO": {
+      "Petrolina de Goiás_GO": 14.0,
+      "Jesúpolis_GO": 6.06
+    },
+    "Três Rios_RJ": {
+      "Paraíba do Sul_RJ": 3.15,
+      "Comendador Levy Gasparian_RJ": 5.97
+    },
+    "João Pinheiro_MG": {
+      "Lagoa Grande_MG": 64.06,
+      "São Gonçalo do Abaeté_MG": 71.89
+    },
+    "Lagoa Grande_MG": {
+      "Vazante_MG": 17.09,
+      "João Pinheiro_MG": 64.06
+    },
+    "São Martinho da Serra_RS": {
+      "Júlio de Castilhos_RS": 9.37
+    },
+    "São Caitano_PE": {
+      "Cachoeirinha_PE": 8.48,
+      "Altinho_PE": 14.17
+    },
+    "Guaíba_RS": {
+      "Eldorado do Sul_RS": 9.6,
+      "Barra do Ribeiro_RS": 25.17
+    },
+    "Sinop_MT": {
+      "Sorriso_MT": 62.36,
+      "Cláudia_MT": 29.27
+    },
+    "Santa Inês_MA": {
+      "Monção_MA": 10.87,
+      "Pindaré-Mirim_MA": 12.2
+    },
+    "Mauá_SP": {
+      "Santo André_SP": 7.4,
+      "Ribeirão Pires_SP": 6.95
+    },
+    "Biritiba Mirim_SP": {
+      "Mogi das Cruzes_SP": 15.69,
+      "Salesópolis_SP": 17.78
+    },
+    "Tuneiras do Oeste_PR": {
+      "Cianorte_PR": 24.3,
+      "Cruzeiro do Oeste_PR": 0.08
+    },
+    "Santo Anastácio_SP": {
+      "Mirante do Paranapanema_SP": 17.92
+    },
+    "Cabrobó_PE": {
+      "Orocó_PE": 36.44,
+      "Salgueiro_PE": 38.31
+    },
+    "Formosa do Sul_SC": {
+      "São Lourenço do Oeste_SC": 8.97,
+      "Irati_SC": 3.81
+    },
+    "Porto Ferreira_SP": {
+      "Descalvado_SP": 12.89,
+      "Pirassununga_SP": 10.08
+    },
+    "Figueirópolis_TO": {
+      "Alvorada_TO": 3.91,
+      "Cariri do Tocantins_TO": 20.88,
+      "Sucupira_TO": 24.59
+    },
+    "Santo Antônio do Descoberto_GO": {
+      "Brasília_DF": 32.35,
+      "Alexânia_GO": 23.67
+    },
+    "Itaporã_MS": {
+      "Maracaju_MS": 39.26,
+      "Dourados_MS": 33.79
+    },
+    "Sítio Novo_MA": {
+      "São Pedro dos Crentes_MA": 11.94,
+      "Formosa da Serra Negra_MA": 2.05
+    },
+    "Comodoro_MT": {
+      "Campos de Júlio_MT": 157.17,
+      "Vilhena_RO": 90.44
+    },
+    "Sambaíba_MA": {
+      "Loreto_MA": 35.82,
+      "Balsas_MA": 43.71
+    },
+    "Mairiporã_SP": {
+      "Franco da Rocha_SP": 7.17,
+      "São Paulo_SP": 7.88
+    },
+    "Rincão_SP": {
+      "Santa Lúcia_SP": 7.86,
+      "Guatapará_SP": 12.68
+    },
+    "Nova Veneza_GO": {
+      "Brazabrantes_GO": 10.15,
+      "Damolândia_GO": 5.62
+    },
+    "Ribas do Rio Pardo_MS": {
+      "Santa Rita do Pardo_MS": 56.88,
+      "Campo Grande_MS": 52.33
+    },
+    "Ubaitaba_BA": {
+      "Maraú_BA": 14.5,
+      "Gongogi_BA": 15.7
+    },
+    "Nacip Raydan_MG": {
+      "Coroaci_MG": 12.72,
+      "Virgolândia_MG": 14.81
+    },
+    "Mamborê_PR": {
+      "Boa Esperança_PR": 10.06,
+      "Farol_PR": 9.99
+    },
+    "Barra Mansa_RJ": {
+      "Quatis_RJ": 5.0,
+      "Barra Mansa_RJ": 11.35,
+      "Porto Real_RJ": 11.42,
+      "Volta Redonda_RJ": 9.33
+    },
+    "São Cristóvão do Sul_SC": {
+      "Curitibanos_SC": 15.36,
+      "Ponte Alta_SC": 7.29
+    },
+    "Pérola_PR": {
+      "Altônia_PR": 23.63,
+      "Cafezal do Sul_PR": 11.64
+    },
+    "Buritizeiro_MG": {
+      "Santa Fé de Minas_MG": 85.67
+    },
+    "Dom Bosco_MG": {
+      "Bonfinópolis de Minas_MG": 20.34,
+      "Natalândia_MG": 17.97
+    },
+    "Barra do Ribeiro_RS": {
+      "Tapes_RS": 32.24,
+      "Guaíba_RS": 25.17
+    },
+    "Caém_BA": {
+      "Saúde_BA": 22.82,
+      "Jacobina_BA": 18.98
+    },
+    "Camaquã_RS": {
+      "Arambaré_RS": 17.17,
+      "Cristal_RS": 19.24
+    },
+    "Curaçá_BA": {
+      "Santa Maria da Boa Vista_PE": 24.93
+    },
+    "Tupiratins_TO": {
+      "Guaraí_TO": 28.16,
+      "Palmeirante_TO": 47.6
+    },
+    "Goianésia_GO": {
+      "Santa Isabel_GO": 10.88,
+      "São Luiz do Norte_GO": 16.29
+    },
+    "Verê_PR": {
+      "Itapejara d'Oeste_PR": 14.36,
+      "São João_PR": 11.34
+    },
+    "Tanhaçu_BA": {
+      "Brumado_BA": 62.07,
+      "Mirante_BA": 0.78,
+      "Contendas do Sincorá_BA": 2.74
+    },
+    "Barracão_PR": {
+      "Dionísio Cerqueira_SC": 11.05,
+      "Bom Jesus do Sul_PR": 5.02
+    },
+    "Miguel Calmon_BA": {
+      "Jacobina_BA": 27.01,
+      "Piritiba_BA": 31.74
+    },
+    "Novo Tiradentes_RS": {
+      "Rodeio Bonito_RS": 2.8,
+      "Pinhal_RS": 5.69
+    },
+    "Ângulo_PR": {
+      "Iguaraçu_PR": 12.73
+    },
+    "Ilha Solteira_SP": {
+      "Itapura_SP": 10.61,
+      "Pereira Barreto_SP": 21.4
+    },
+    "Senhora dos Remédios_MG": {
+      "Carandaí_MG": 13.43,
+      "Ressaquinha_MG": 6.38
+    },
+    "Gália_SP": {
+      "Avaí_SP": 17.39,
+      "Garça_SP": 8.71
+    },
+    "Igarapé do Meio_MA": {
+      "Monção_MA": 2.87,
+      "Vitória do Mearim_MA": 20.25
+    },
+    "Maraú_BA": {
+      "Ubaitaba_BA": 14.5,
+      "Itacaré_BA": 3.46
+    },
+    "Eliseu Martins_PI": {
+      "Pavussu_PI": 31.26,
+      "Bertolínia_PI": 21.78,
+      "Colônia do Gurguéia_PI": 8.21,
+      "Eliseu Martins_PI": 13.89
+    },
+    "Três Marias_MG": {
+      "Corinto_MG": 43.87,
+      "São Gonçalo do Abaeté_MG": 45.85
+    },
+    "Santa Fé de Minas_MG": {
+      "Brasilândia de Minas_MG": 45.95,
+      "Buritizeiro_MG": 85.67
+    },
+    "Simões Filho_BA": {
+      "Candeias_BA": 6.39,
+      "Camaçari_BA": 5.82
+    },
+    "Agronômica_SC": {
+      "Laurentino_SC": 4.01,
+      "Trombudo Central_SC": 6.81
+    },
+    "Ilhota_SC": {
+      "Gaspar_SC": 13.92,
+      "Navegantes_SC": 8.21
+    },
+    "Flor do Sertão_SC": {
+      "Iraceminha_SC": 6.33,
+      "Descanso_SC": 4.46
+    },
+    "Laurentino_SC": {
+      "Agronômica_SC": 4.01,
+      "Rio do Sul_SC": 9.53
+    },
+    "Santa Rita do Pardo_MS": {
+      "Ribas do Rio Pardo_MS": 56.88,
+      "Brasilândia_MS": 65.61
+    },
+    "Capivari_SP": {
+      "Mombuca_SP": 5.55,
+      "Rafard_SP": 5.45,
+      "Elias Fausto_SP": 14.4
+    },
+    "Palmitos_SC": {
+      "Caibi_SC": 5.55,
+      "Cunha Porã_SC": 2.49
+    },
+    "Bela Vista_MS": {
+      "Jardim_MS": 9.38,
+      "Caracol_MS": 34.72
+    },
+    "Duque de Caxias_RJ": {
+      "Belford Roxo_RJ": 10.51,
+      "Petrópolis_RJ": 30.19
+    },
+    "Ibirama_SC": {
+      "Lontras_SC": 3.3,
+      "Apiúna_SC": 0.66
+    },
+    "Formosa da Serra Negra_MA": {
+      "São Pedro dos Crentes_MA": 1.43,
+      "Sítio Novo_MA": 2.05,
+      "Fortaleza dos Nogueiras_MA": 30.86
+    },
+    "Paranaiguara_GO": {
+      "Quirinópolis_GO": 44.06,
+      "São Simão_GO": 29.65
+    },
+    "Castilho_SP": {
+      "Nova Independência_SP": 0.36,
+      "Andradina_SP": 29.0,
+      "São João do Pau d'Alho_SP": 6.06
+    },
+    "Ruy Barbosa_BA": {
+      "Itaberaba_BA": 42.93,
+      "Macajuba_BA": 1.68,
+      "Mundo Novo_BA": 20.07
+    },
+    "Cedral_SP": {
+      "Uchoa_SP": 12.61,
+      "São José do Rio Preto_SP": 16.06
+    },
+    "Patrocínio do Muriaé_MG": {
+      "Itaperuna_RJ": 34.16,
+      "Eugenópolis_MG": 4.58,
+      "Muriaé_MG": 5.59
+    },
+    "Colorado_PR": {
+      "Nossa Senhora das Graças_PR": 1.55,
+      "Santa Fé_PR": 12.77,
+      "Santo Inácio_PR": 0.68
+    },
+    "Bom Sucesso do Sul_PR": {
+      "Itapejara d'Oeste_PR": 3.67,
+      "Renascença_PR": 9.06
+    },
+    "Mutunópolis_GO": {
+      "Mara Rosa_GO": 17.52,
+      "Porangatu_GO": 54.58,
+      "Estrela do Norte_GO": 10.19
+    },
+    "Floresta_PR": {
+      "Maringá_PR": 10.65,
+      "Itambé_PR": 3.73
+    },
+    "Alagoinha_PE": {
+      "Pesqueira_PE": 13.76,
+      "Venturosa_PE": 15.11
+    },
+    "Ilhéus_BA": {
+      "Uruçuca_BA": 23.54
+    },
+    "Irati_SC": {
+      "Formosa do Sul_SC": 3.81,
+      "Jardinópolis_SC": 4.45
+    },
+    "Rodeio Bonito_RS": {
+      "Liberato Salzano_RS": 6.01,
+      "Novo Tiradentes_RS": 2.8
+    },
+    "Céu Azul_PR": {
+      "Santa Tereza do Oeste_PR": 23.29,
+      "Matelândia_PR": 25.89
+    },
+    "São José do Cerrito_SC": {
+      "Lages_SC": 33.86,
+      "Vargem_SC": 35.74
+    },
+    "Fortaleza dos Nogueiras_MA": {
+      "Balsas_MA": 35.38,
+      "Formosa da Serra Negra_MA": 30.86,
+      "São Raimundo das Mangabeiras_MA": 31.95
+    },
+    "Terra Nova do Norte_MT": {
+      "Colíder_MT": 30.48,
+      "Peixoto de Azevedo_MT": 32.14
+    },
+    "Aparecida do Taboado_MS": {
+      "Rubinéia_SP": 37.09,
+      "Inocência_MS": 99.65
+    },
+    "São José do Peixe_PI": {
+      "Ribeira do Piauí_PI": 15.62,
+      "São Miguel do Fidalgo_PI": 21.1
+    },
+    "Campestre de Goiás_GO": {
+      "Palmeiras de Goiás_GO": 5.29
+    },
+    "Campinorte_GO": {
+      "Uruaçu_GO": 45.5,
+      "Mara Rosa_GO": 30.89
+    },
+    "São João del Rei_MG": {
+      "Barbacena_MG": 0.11,
+      "Conceição da Barra de Minas_MG": 15.99,
+      "Ritápolis_MG": 16.17,
+      "Nazareno_MG": 12.3,
+      "Madre de Deus de Minas_MG": 22.23
+    },
+    "Sant'Ana do Livramento_RS": {
+      "Dom Pedrito_RS": 74.28
+    },
+    "Dionísio Cerqueira_SC": {
+      "Barracão_PR": 11.05,
+      "Princesa_SC": 10.92
+    },
+    "Pinhal_RS": {
+      "Jaboticaba_RS": 10.12,
+      "Novo Tiradentes_RS": 5.69
+    },
+    "Palmas_PR": {
+      "Água Doce_PR": 18.71,
+      "Clevelândia_PR": 19.09
+    },
+    "Condor_RS": {
+      "Palmeira das Missões_RS": 0.49,
+      "Panambi_RS": 21.69
+    },
+    "Parnamirim_PE": {
+      "Terra Nova_PE": 31.23,
+      "Bodocó_PE": 30.98
+    },
+    "Juti_MS": {
+      "Amambai_MS": 24.31,
+      "Caarapó_MS": 37.31
+    },
+    "Itajaí_SC": {
+      "Navegantes_SC": 2.03,
+      "Camboriú_SC": 11.69
+    },
+    "Timbó_SC": {
+      "Indaial_SC": 7.08,
+      "Rodeio_SC": 6.17
+    },
+    "Ritápolis_MG": {
+      "São João del Rei_MG": 16.17,
+      "Coronel Xavier Chaves_MG": 5.43
+    },
+    "Santana do Deserto_RJ": {
+      "Simão Pereira_RJ": 8.39,
+      "Comendador Levy Gasparian_RJ": 4.53
+    },
+    "Babaçulândia_TO": {
+      "Darcinópolis_TO": 60.27,
+      "Araguaína_TO": 55.99
+    },
+    "Campo Alegre do Fidalgo_PI": {
+      "Bela Vista do Piauí_PI": 1.33,
+      "São Francisco de Assis do Piauí_PI": 9.81
+    },
+    "Santa Tereza do Oeste_PR": {
+      "Cascavel_PR": 17.59,
+      "Céu Azul_PR": 23.29
+    },
+    "Alvorada_TO": {
+      "Figueirópolis_TO": 3.91,
+      "Talismã_TO": 37.07
+    },
+    "Belterra_PA": {
+      "Santarém_PA": 80.47,
+      "Placas_PA": 76.26
+    },
+    "Francisco Morato_SP": {
+      "Franco da Rocha_SP": 6.64,
+      "Atibaia_SP": 4.31,
+      "Campo Limpo Paulista_SP": 7.9
+    },
+    "Mesquita_RJ": {
+      "São João de Meriti_RJ": 3.26,
+      "Nova Iguaçu_RJ": 8.45,
+      "Nilópolis_RJ": 3.28
+    },
+    "Perobal_PR": {
+      "Cafezal do Sul_PR": 10.61,
+      "Umuarama_PR": 11.35
+    },
+    "Bom Jesus do Sul_PR": {
+      "Barracão_PR": 5.02,
+      "Santo Antônio do Sudoeste_PR": 11.15
+    },
+    "Trombudo Central_SC": {
+      "Agronômica_SC": 6.81,
+      "Pouso Redondo_SC": 18.43
+    },
+    "Sertânia_PE": {
+      "Buíque_PE": 26.6,
+      "Custódia_PE": 42.23
+    },
+    "Aiquara_BA": {
+      "Jequié_BA": 1.39,
+      "Itagi_BA": 2.69,
+      "Itagibá_BA": 18.75
+    },
+    "Nazareno_MG": {
+      "São João del Rei_MG": 12.3,
+      "Conceição da Barra de Minas_MG": 2.62
+    },
+    "Gongogi_BA": {
+      "Ubaitaba_BA": 15.7,
+      "Aurelino Leal_BA": 11.05,
+      "Itagibá_BA": 17.65
+    },
+    "Cruzeiro do Oeste_PR": {
+      "Tuneiras do Oeste_PR": 0.08,
+      "Umuarama_PR": 14.61
+    },
+    "Ponte Alta do Norte_SC": {
+      "Curitibanos_SC": 2.32
+    },
+    "Herval_RS": {
+      "Jaguarão_RS": 46.09
+    },
+    "Marechal Cândido Rondon_PR": {
+      "Mercedes_PR": 10.19,
+      "Quatro Pontes_PR": 5.26
+    },
+    "Suzano_SP": {
+      "Poá_SP": 11.82,
+      "Ribeirão Pires_SP": 13.11,
+      "Mogi das Cruzes_SP": 15.55
+    },
+    "Arvoredo_SC": {
+      "Xaxim_SC": 1.18,
+      "Seara_SC": 12.2
+    },
+    "Barrinha_SP": {
+      "Pradópolis_SP": 16.29,
+      "Sertãozinho_SP": 9.89
+    },
+    "Ressaquinha_MG": {
+      "Senhora dos Remédios_MG": 6.38,
+      "Alfredo Vasconcelos_MG": 15.25
+    },
+    "Várzea Grande_MT": {
+      "Nossa Senhora do Livramento_MT": 7.03
+    },
+    "Areal_RJ": {
+      "Paraíba do Sul_RJ": 6.63,
+      "Petrópolis_RJ": 26.04
+    },
+    "Guaraciaba_SC": {
+      "Paraíso_SC": 6.52,
+      "São José do Cedro_SC": 9.45
+    },
+    "Gaúcha do Norte_MT": {
+      "Canarana_MT": 110.31,
+      "Paranatinga_MT": 89.9
+    },
+    "Rio do Campo_SC": {
+      "Taió_SC": 23.09,
+      "Vitor Meireles_SC": 0.08
+    },
+    "Nioaque_MS": {
+      "Guia Lopes da Laguna_MS": 1.17
+    },
+    "Rubinéia_SP": {
+      "Santa Fé do Sul_SP": 9.34,
+      "Aparecida do Taboado_MS": 37.09,
+      "Rubinéia_SP": 4.07
+    },
+    "Porto Belo_SC": {
+      "Itapema_SC": 9.46,
+      "Tijucas_SC": 13.46
+    },
+    "Cristal_RS": {
+      "Amaral Ferrador_RS": 17.84,
+      "São Lourenço do Sul_RS": 32.4,
+      "Camaquã_RS": 19.24
+    },
+    "Miracema do Tocantins_TO": {
+      "Porto Nacional_TO": 55.22,
+      "Rio dos Bois_TO": 60.51
+    },
+    "Pradópolis_SP": {
+      "Barrinha_SP": 16.29,
+      "Guatapará_SP": 14.93
+    },
+    "Lajeado Grande_SC": {
+      "Xaxim_SC": 6.42,
+      "Marema_SC": 6.85
+    },
+    "Campo Limpo Paulista_SP": {
+      "Jundiaí_SP": 5.02,
+      "Várzea Paulista_SP": 7.25,
+      "Francisco Morato_SP": 7.9,
+      "Atibaia_SP": 8.59
+    },
+    "Lagoa Dourada_MG": {
+      "Resende Costa_MG": 14.13,
+      "Entre Rios de Minas_MG": 19.46
+    },
+    "Gameleira_PE": {
+      "Água Preta_PE": 3.74
+    },
+    "Santa Lúcia_SP": {
+      "Américo Brasiliense_SP": 7.37,
+      "Rincão_SP": 7.86
+    },
+    "Garopaba_SC": {
+      "Paulo Lopes_SC": 11.84,
+      "Imbituba_SC": 13.33
+    },
+    "Goiânia_GO": {
+      "Goianápolis_GO": 10.92
+    },
+    "Aparecida_SP": {
+      "Roseira_SP": 7.73,
+      "Guaratinguetá_SP": 8.93
+    },
+    "Sumaré_SP": {
+      "Nova Odessa_SP": 7.01,
+      "Hortolândia_SP": 9.36,
+      "Campinas_SP": 3.56
+    },
+    "Sertãozinho_SP": {
+      "Pitangueiras_SP": 22.37,
+      "Barrinha_SP": 9.89
+    },
+    "Itacaré_BA": {
+      "Maraú_BA": 3.46
+    },
+    "Uchoa_SP": {
+      "Cedral_SP": 12.61,
+      "Tabapuã_SP": 10.71
+    },
+    "Vinhedo_SP": {
+      "Louveira_SP": 6.56,
+      "Valinhos_SP": 8.97
+    },
+    "Pouso Redondo_SC": {
+      "Ponte Alta_SC": 18.41,
+      "Trombudo Central_SC": 18.43
+    },
+    "Catiguá_SP": {
+      "Catanduva_SP": 12.58,
+      "Tabapuã_SP": 7.69
+    },
+    "Presidente Castello Branco_SC": {
+      "Concórdia_SC": 22.29,
+      "Ouro_SC": 7.93
+    },
+    "Uruçuí_PI": {
+      "Sebastião Leal_PI": 54.66,
+      "Ribeiro Gonçalves_PI": 61.63
+    },
+    "Colônia do Gurguéia_PI": {
+      "Manoel Emídio_PI": 12.3,
+      "Eliseu Martins_PI": 8.21
+    },
+    "Macajuba_BA": {
+      "Ruy Barbosa_BA": 1.68
+    },
+    "Santa Terezinha de Itaipu_PR": {
+      "São Miguel do Iguaçu_PR": 21.68,
+      "Foz do Iguaçu_PR": 14.36
+    },
+    "Herval d'Oeste_SC": {
+      "Erval Velho_SC": 11.94,
+      "Herval d'Oeste_SC": 5.05,
+      "Joaçaba_SC": 8.69
+    },
+    "José Boiteux_SC": {
+      "Doutor Pedrinho_SC": 13.4,
+      "Vitor Meireles_SC": 17.56
+    },
+    "Santa Cecília_SC": {
+      "Curitibanos_SC": 17.11,
+      "Taió_SC": 22.12
+    },
+    "Diamantina_MG": {
+      "Couto de Magalhães de Minas_MG": 22.03
+    },
+    "Jaciara_MT": {
+      "Santo Antônio do Leverger_MT": 2.79
+    },
+    "Santa Bárbara d'Oeste_SP": {
+      "Piracicaba_SP": 18.42,
+      "Americana_SP": 11.13
+    },
+    "Guatapará_SP": {
+      "Rincão_SP": 12.68,
+      "Pradópolis_SP": 14.93
+    },
+    "Santa Vitória_MG": {
+      "São Simão_GO": 28.55,
+      "União de Minas_MG": 35.67
+    },
+    "Saudades_SC": {
+      "Cunha Porã_SC": 4.14,
+      "Pinhalzinho_SC": 5.76
+    },
+    "Nova Santa Helena_MT": {
+      "Itaúba_MT": 32.86,
+      "Colíder_MT": 16.33
+    },
+    "Lagoa Grande_PE": {
+      "Santa Maria da Boa Vista_PE": 20.54,
+      "Petrolina_PE": 37.82
+    },
+    "Vila Nova dos Martírios_MA": {
+      "Cidelândia_MA": 40.97,
+      "São Pedro da Água Branca_MA": 40.89
+    },
+    "Nonoai_RS": {
+      "Planalto_RS": 6.35,
+      "Trindade do Sul_RS": 6.6,
+      "Rio dos Índios_RS": 10.19,
+      "Chapecó_SC": 17.39
+    },
+    "Ewbank da Câmara_MG": {
+      "Santos Dumont_MG": 22.71,
+      "Juiz de Fora_MG": 28.26
+    },
+    "Dirce Reis_SP": {
+      "Pontalinda_SP": 11.56,
+      "Palmeira d'Oeste_SP": 14.28
+    },
+    "Seberi_RS": {
+      "Erval Seco_RS": 13.85,
+      "Frederico Westphalen_RS": 17.96
+    },
+    "Cachoeira Paulista_SP": {
+      "Canas_SP": 6.71,
+      "Cruzeiro_SP": 10.02
+    },
+    "Lucélia_SP": {
+      "Inúbia Paulista_SP": 7.69,
+      "Adamantina_SP": 9.61
+    },
+    "São Raimundo das Mangabeiras_MA": {
+      "Fortaleza dos Nogueiras_MA": 31.95
+    },
+    "Iguaraçu_PR": {
+      "Santa Fé_PR": 1.31,
+      "Maringá_PR": 12.31,
+      "Ângulo_PR": 12.73
+    },
+    "Frederico Westphalen_RS": {
+      "Seberi_RS": 17.96,
+      "Caiçara_RS": 7.78
+    },
+    "Alto Alegre do Pindaré_MA": {
+      "Buriticupu_MA": 49.75,
+      "Tufilândia_MA": 52.16
+    },
+    "Valentim Gentil_SP": {
+      "Votuporanga_SP": 16.98,
+      "Meridiano_SP": 12.45
+    },
+    "Osvaldo Cruz_SP": {
+      "Inúbia Paulista_SP": 9.92,
+      "Parapuã_SP": 14.48
+    },
+    "Engenheiro Paulo de Frontin_RJ": {
+      "Mendes_RJ": 10.01,
+      "Paracambi_RJ": 12.74
+    },
+    "União do Oeste_SC": {
+      "Pinhalzinho_SC": 9.74,
+      "Jardinópolis_SC": 0.66
+    },
+    "Nova Crixás_GO": {
+      "Crixás_GO": 64.68
+    },
+    "Santa Terezinha de Goiás_GO": {
+      "Crixás_GO": 50.73,
+      "Pilar de Goiás_GO": 22.0
+    },
+    "Rio Grande do Piauí_PI": {
+      "Pavussu_PI": 30.87,
+      "Itaueira_PI": 20.59
+    },
+    "Rio Grande da Serra_SP": {
+      "Santo André_SP": 7.81,
+      "Ribeirão Pires_SP": 5.13
+    },
+    "Colíder_MT": {
+      "Terra Nova do Norte_MT": 30.48,
+      "Nova Santa Helena_MT": 16.33
+    },
+    "Porto União_SC": {
+      "General Carneiro_PR": 1.03,
+      "Porto Vitória_PR": 2.87,
+      "Matos Costa_SC": 1.35
+    },
+    "Acará_PA": {
+      "Tomé-Açu_PA": 19.28,
+      "Moju_PA": 28.51
+    },
+    "Guaratinguetá_SP": {
+      "Aparecida_SP": 8.93,
+      "Lorena_SP": 10.09
+    },
+    "Resende Costa_MG": {
+      "Lagoa Dourada_MG": 14.13,
+      "Coronel Xavier Chaves_MG": 8.27
+    },
+    "Inocência_MS": {
+      "Aparecida do Taboado_MS": 99.65,
+      "Cassilândia_MS": 95.36
+    },
+    "Pérola d'Oeste_PR": {
+      "Planalto_PR": 12.91,
+      "Pranchita_PR": 13.8
+    },
+    "Santa Ernestina_SP": {
+      "Dobrada_SP": 7.81,
+      "Taquaritinga_SP": 15.69
+    },
+    "Ulianópolis_PA": {
+      "Paragominas_PA": 75.3,
+      "Itinga do Maranhão_MA": 35.53
+    },
+    "Quinta do Sol_PR": {
+      "Engenheiro Beltrão_PR": 4.29,
+      "Peabiru_PR": 5.21
+    },
+    "Itambé_PR": {
+      "Engenheiro Beltrão_PR": 8.86,
+      "Floresta_PR": 3.73
+    },
+    "Dois Irmãos das Missões_RS": {
+      "Palmeira das Missões_RS": 28.9,
+      "Erval Seco_RS": 10.27
+    },
+    "Rio Vermelho_MG": {
+      "Coluna_MG": 27.35,
+      "Couto de Magalhães de Minas_MG": 27.91
+    },
+    "Itaúba_MT": {
+      "Cláudia_MT": 35.72,
+      "Nova Santa Helena_MT": 32.86
+    },
+    "Jaraguá_GO": {
+      "Rianápolis_GO": 32.16,
+      "Jesúpolis_GO": 28.6
+    },
+    "Ouro Verde_SP": {
+      "Panorama_SP": 11.22,
+      "Dracena_SP": 16.8
+    },
+    "Nova Mutum_MT": {
+      "Lucas do Rio Verde_MT": 40.16,
+      "São José do Rio Claro_MT": 37.37
+    },
+    "Jacobina_BA": {
+      "Caém_BA": 18.98,
+      "Miguel Calmon_BA": 27.01
+    },
+    "Garça_SP": {
+      "Vera Cruz_SP": 15.14,
+      "Gália_SP": 8.71
+    },
+    "Joaçaba_SC": {
+      "Herval d'Oeste_SC": 8.69,
+      "Ouro_SC": 11.34
+    },
+    "São Vicente de Minas_MG": {
+      "Andrelândia_MG": 6.41
+    },
+    "Aguiarnópolis_TO": {
+      "Estreito_MA": 36.19,
+      "Palmeiras do Tocantins_TO": 10.74
+    },
+    "Ijuí_RS": {
+      "Bozano_RS": 13.49
+    },
+    "Tabapuã_SP": {
+      "Uchoa_SP": 10.71,
+      "Catiguá_SP": 7.69
+    },
+    "Talismã_TO": {
+      "Porangatu_GO": 60.33,
+      "Alvorada_TO": 37.07
+    },
+    "Quilombo_SC": {
+      "Marema_SC": 6.73,
+      "Santiago do Sul_SC": 10.21
+    },
+    "Nova Itaberaba_SC": {
+      "Nova Erechim_SC": 10.8,
+      "Chapecó_SC": 21.18
+    },
+    "Imbituba_SC": {
+      "Garopaba_SC": 13.33
+    },
+    "Bertolínia_PI": {
+      "Sebastião Leal_PI": 25.83,
+      "Manoel Emídio_PI": 13.36,
+      "Eliseu Martins_PI": 21.78
+    },
+    "Guarulhos_SP": {
+      "Itaquaquecetuba_SP": 10.79,
+      "São Paulo_SP": 9.48
+    },
+    "Galvão_SC": {
+      "Coronel Martins_SC": 10.28,
+      "Jupiá_SC": 0.09
+    },
+    "Paranã_TO": {
+      "Conceição do Tocantins_TO": 78.44,
+      "Peixe_TO": 78.22
+    },
+    "Sucupira_TO": {
+      "Figueirópolis_TO": 24.59,
+      "Peixe_TO": 36.83
+    },
+    "Santa Maria_RS": {
+      "Restinga Sêca_RS": 27.44,
+      "Silveira Martins_RS": 12.17
+    },
+    "Damolândia_GO": {
+      "Ouro Verde de Goiás_GO": 2.47,
+      "Nova Veneza_GO": 5.62,
+      "Damolândia_GO": 2.36
+    },
+    "Rio dos Índios_RS": {
+      "Nonoai_RS": 10.19
+    },
+    "Descanso_SC": {
+      "Flor do Sertão_SC": 4.46,
+      "São Miguel do Oeste_SC": 12.81
+    },
+    "São Simão_GO": {
+      "Paranaiguara_GO": 29.65,
+      "Santa Vitória_MG": 28.55
+    },
+    "Boa Vista das Missões_RS": {
+      "Jaboticaba_RS": 6.93,
+      "Palmeira das Missões_RS": 25.45
+    },
+    "Quatro Pontes_PR": {
+      "Toledo_PR": 23.76,
+      "Marechal Cândido Rondon_PR": 5.26
+    },
+    "Anahy_PR": {
+      "Corbélia_PR": 2.03,
+      "Iguatu_PR": 3.63
+    },
+    "União de Minas_MG": {
+      "Iturama_MG": 37.94,
+      "Santa Vitória_MG": 35.67
+    },
+    "São Caetano do Sul_SP": {
+      "Santo André_SP": 5.6,
+      "São Paulo_SP": 6.13
+    },
+    "Jaborandi_BA": {
+      "São Félix do Coribe_BA": 28.72,
+      "Correntina_BA": 12.61
+    },
+    "Paracatu_MG": {
+      "Unaí_MG": 57.29,
+      "Vazante_MG": 44.75
+    },
+    "São José dos Campos_SP": {
+      "Jacareí_SP": 22.29,
+      "Caçapava_SP": 20.07
+    },
+    "Porto Real_RJ": {
+      "Resende_RJ": 9.81,
+      "Barra Mansa_RJ": 11.42
+    },
+    "Fátima_TO": {
+      "Brejinho de Nazaré_TO": 26.15,
+      "Oliveira de Fátima_TO": 24.19
+    },
+    "Ibaté_SP": {
+      "São Carlos_SP": 20.19,
+      "Araraquara_SP": 19.03
+    },
+    "Mogi das Cruzes_SP": {
+      "Itaquaquecetuba_SP": 17.32,
+      "Guararema_SP": 12.24,
+      "Biritiba Mirim_SP": 15.69,
+      "Suzano_SP": 15.55
+    },
+    "São Sebastião_SP": {
+      "Salesópolis_SP": 30.13
+    },
+    "Eldorado_MS": {
+      "Mundo Novo_MS": 22.39,
+      "Iguatemi_MS": 48.86
+    },
+    "Amambai_MS": {
+      "Juti_MS": 24.31,
+      "Iguatemi_MS": 48.59
+    },
+    "Abelardo Luz_SC": {
+      "Clevelândia_PR": 18.2
+    },
+    "Bozano_RS": {
+      "Pejuçara_RS": 8.49,
+      "Ijuí_RS": 13.49
+    },
+    "Chapecó_SC": {
+      "Xaxim_SC": 17.46,
+      "Nonoai_RS": 17.39,
+      "Nova Itaberaba_SC": 21.18,
+      "Cordilheira Alta_SC": 17.11
+    },
+    "Santo Antônio do Sudoeste_PR": {
+      "Bom Jesus do Sul_PR": 11.15,
+      "Pranchita_PR": 14.65
+    },
+    "Ouricuri_PE": {
+      "Trindade_PE": 26.43,
+      "Bodocó_PE": 29.17
+    },
+    "Arraias_TO": {
+      "Lavandeira_TO": 51.92,
+      "Conceição do Tocantins_TO": 60.64
+    },
+    "Estrela do Norte_GO": {
+      "Mutunópolis_GO": 10.19
+    },
+    "Barreiras_BA": {
+      "São Desidério_BA": 52.48,
+      "Barreiras_BA": 4.83
+    },
+    "São Francisco do Brejão_MA": {
+      "Açailândia_MA": 3.1,
+      "Imperatriz_MA": 17.58
+    },
+    "Conceição da Barra de Minas_MG": {
+      "São Tiago_MG": 12.07,
+      "São João del Rei_MG": 15.99,
+      "Nazareno_MG": 2.62
+    },
+    "Catanduva_SP": {
+      "Pindorama_SP": 12.75,
+      "Catiguá_SP": 12.58
+    },
+    "Araripina_PE": {
+      "Trindade_PE": 13.76,
+      "Simões_PI": 19.11
+    },
+    "Santos Dumont_MG": {
+      "Antônio Carlos_MG": 26.12,
+      "Ewbank da Câmara_MG": 22.71
+    },
+    "Feira Nova do Maranhão_MA": {
+      "São Pedro dos Crentes_MA": 14.27
+    },
+    "Iguatu_PR": {
+      "Ubiratã_PR": 7.25,
+      "Anahy_PR": 3.63
+    },
+    "União da Vitória_PR": {
+      "Porto Vitória_PR": 1.94
+    },
+    "Verdejante_PE": {
+      "São José do Belmonte_PE": 27.93,
+      "Salgueiro_PE": 28.58
+    },
+    "Rio Brilhante_MS": {
+      "Nova Alvorada do Sul_MS": 26.97,
+      "Maracaju_MS": 25.64
+    },
+    "Venturosa_PE": {
+      "Alagoinha_PE": 15.11,
+      "Pedra_PE": 15.31
+    },
+    "Mundo Novo_BA": {
+      "Ruy Barbosa_BA": 20.07,
+      "Piritiba_BA": 35.43
+    },
+    "São José do Jacuri_MG": {
+      "São Pedro do Suaçuí_MG": 9.73,
+      "São João Evangelista_MG": 5.01
+    },
+    "Aurelino Leal_BA": {
+      "Gongogi_BA": 11.05,
+      "Uruçuca_BA": 21.33
+    },
+    "Cubatão_SP": {
+      "Santo André_SP": 8.53,
+      "Santos_SP": 6.78,
+      "Cubatão_SP": 4.71,
+      "São Vicente_SP": 9.84
+    },
+    "Umuarama_PR": {
+      "Perobal_PR": 11.35,
+      "Cruzeiro do Oeste_PR": 14.61
+    },
+    "Mangaratiba_RJ": {
+      "Itaguaí_RJ": 17.0
+    },
+    "Benedito Novo_SC": {
+      "Doutor Pedrinho_SC": 14.18,
+      "Rodeio_SC": 8.83
+    },
+    "Caçapava_SP": {
+      "Taubaté_SP": 14.2,
+      "São José dos Campos_SP": 20.07
+    },
+    "Triunfo_RS": {
+      "Eldorado do Sul_RS": 8.81
+    },
+    "Santa Rita_MA": {
+      "Itapecuru Mirim_MA": 9.84,
+      "Bacabeira_MA": 27.8
+    },
+    "Barra do Piraí_RJ": {
+      "Vassouras_RJ": 10.99,
+      "Mendes_RJ": 12.27,
+      "Pinheiral_RJ": 17.8
+    },
+    "Palmeiras do Tocantins_TO": {
+      "Darcinópolis_TO": 27.73,
+      "Aguiarnópolis_TO": 10.74
+    },
+    "Três Barras do Paraná_PR": {
+      "Quedas do Iguaçu_PR": 17.02,
+      "Catanduvas_PR": 6.61
+    },
+    "Palhoça_SC": {
+      "São José_SC": 22.29,
+      "Paulo Lopes_SC": 22.59
+    },
+    "Pesqueira_PE": {
+      "Sanharó_PE": 6.34,
+      "Alagoinha_PE": 13.76
+    },
+    "Santana da Ponte Pensa_SP": {
+      "Três Fronteiras_SP": 9.58,
+      "Santa Salete_SP": 8.8
+    },
+    "Pedra_PE": {
+      "Buíque_PE": 10.92,
+      "Venturosa_PE": 15.31
+    },
+    "Bom Jardim de Minas_MG": {
+      "Arantina_MG": 9.67,
+      "Santa Rita de Jacutinga_MG": 13.76
+    },
+    "Jandaia_GO": {
+      "Palmeiras de Goiás_GO": 25.66,
+      "Indiara_GO": 22.83
+    },
+    "Acreúna_GO": {
+      "Turvelândia_GO": 25.14,
+      "Indiara_GO": 28.8
+    },
+    "Bom Jesus das Selvas_MA": {
+      "Buriticupu_MA": 34.97,
+      "Açailândia_MA": 52.84
+    },
+    "Pindamonhangaba_SP": {
+      "Roseira_SP": 13.73,
+      "Tremembé_SP": 11.97
+    },
+    "Jardinópolis_SC": {
+      "Irati_SC": 4.45,
+      "União do Oeste_SC": 0.66
+    },
+    "Elias Fausto_SP": {
+      "Indaiatuba_SP": 16.08,
+      "Capivari_SP": 14.4
+    },
+    "Camaçari_BA": {
+      "Simões Filho_BA": 5.82
+    },
+    "Rio do Sul_SC": {
+      "Lontras_SC": 9.93,
+      "Laurentino_SC": 9.53
+    },
+    "Brasilândia_MS": {
+      "Panorama_SP": 35.96,
+      "Santa Rita do Pardo_MS": 65.61
+    },
+    "Pindaré-Mirim_MA": {
+      "Tufilândia_MA": 14.4,
+      "Santa Inês_MA": 12.2
+    },
+    "São Luiz do Norte_GO": {
+      "Santa Rita do Novo Destino_GO": 16.3,
+      "Goianésia_GO": 16.29
+    },
+    "Alfredo Vasconcelos_MG": {
+      "Barbacena_MG": 18.04,
+      "Ressaquinha_MG": 15.25
+    },
+    "Santa Salete_SP": {
+      "Urânia_SP": 9.41,
+      "Santana da Ponte Pensa_SP": 8.8
+    },
+    "Belém de Maria_PE": {
+      "Bonito_PE": 12.29,
+      "São Joaquim do Monte_PE": 6.98
+    },
+    "Tremembé_SP": {
+      "Taubaté_SP": 8.93,
+      "Pindamonhangaba_SP": 11.97
+    },
+    "São José do Rio Claro_MT": {
+      "Nova Mutum_MT": 37.37,
+      "Nova Maringá_MT": 47.34
+    },
+    "Quedas do Iguaçu_PR": {
+      "Cruzeiro do Iguaçu_PR": 8.97,
+      "Três Barras do Paraná_PR": 17.02
+    },
+    "Rio Grande_RS": {
+      "Pelotas_RS": 50.64
+    },
+    "Iguatemi_MS": {
+      "Eldorado_MS": 48.86,
+      "Amambai_MS": 48.59
+    },
+    "Renascença_PR": {
+      "Vitorino_PR": 5.55,
+      "Bom Sucesso do Sul_PR": 9.06
+    },
+    "Goianira_GO": {
+      "Trindade_GO": 21.7,
+      "Brazabrantes_GO": 11.47
+    },
+    "Água Boa_MT": {
+      "Canarana_MT": 67.79,
+      "Água Boa_MT": 7.34,
+      "Nova Nazaré_MT": 27.04
+    },
+    "Nova Nazaré_MT": {
+      "Água Boa_MT": 27.04,
+      "Cocalinho_MT": 69.22
+    },
+    "Pranchita_PR": {
+      "Pérola d'Oeste_PR": 13.8,
+      "Santo Antônio do Sudoeste_PR": 14.65
+    },
+    "Crixás_GO": {
+      "Nova Crixás_GO": 64.68,
+      "Santa Terezinha de Goiás_GO": 50.73
+    },
+    "Guarantã do Norte_MT": {
+      "Novo Progresso_PA": 61.45,
+      "Matupá_MT": 40.6
+    },
+    "Vicente Dutra_RS": {
+      "Caibi_SC": 12.35,
+      "Caiçara_RS": 25.4
+    },
+    "Dom Pedrito_RS": {
+      "Sant'Ana do Livramento_RS": 74.28
+    },
+    "Juiz de Fora_MG": {
+      "Matias Barbosa_MG": 29.72,
+      "Ewbank da Câmara_MG": 28.26
+    },
+    "Coronel Xavier Chaves_MG": {
+      "Ritápolis_MG": 5.43,
+      "Resende Costa_MG": 8.27
+    },
+    "Tupã_SP": {
+      "Herculândia_SP": 19.24,
+      "Iacri_SP": 17.62
+    },
+    "Palmeirante_TO": {
+      "Tupiratins_TO": 47.6,
+      "Araguaína_TO": 50.56
+    },
+    "Atibaia_SP": {
+      "Francisco Morato_SP": 4.31,
+      "Campo Limpo Paulista_SP": 8.59
+    },
+    "Fernando Prestes_SP": {
+      "Cândido Rodrigues_SP": 9.04,
+      "Santa Adélia_SP": 12.81
+    },
+    "Dracena_SP": {
+      "Ouro Verde_SP": 16.8,
+      "Junqueirópolis_SP": 16.29
+    },
+    "Lagoa Real_BA": {
+      "Brumado_BA": 12.79,
+      "Rio do Antônio_BA": 13.53
+    },
+    "Placas_PA": {
+      "Rurópolis_PA": 43.89,
+      "Belterra_PA": 76.26
+    },
+    "Campo Grande_MS": {
+      "Nova Alvorada do Sul_MS": 49.85,
+      "Ribas do Rio Pardo_MS": 52.33
+    },
+    "Entre Rios de Minas_MG": {
+      "Lagoa Dourada_MG": 19.46,
+      "São Brás do Suaçuí_MG": 13.79
+    },
+    "Ouro_SC": {
+      "Presidente Castello Branco_SC": 7.93,
+      "Joaçaba_SC": 11.34
+    },
+    "Lorena_SP": {
+      "Canas_SP": 7.97,
+      "Guaratinguetá_SP": 10.09
+    },
+    "Valinhos_SP": {
+      "Campinas_SP": 12.89,
+      "Vinhedo_SP": 8.97
+    },
+    "Juscimeira_MT": {
+      "Santo Antônio do Leverger_MT": 18.21
+    },
+    "Dois Vizinhos_PR": {
+      "São Jorge d'Oeste_PR": 9.0,
+      "Cruzeiro do Iguaçu_PR": 2.8
+    },
+    "Palmeira d'Oeste_SP": {
+      "Sud Mennucci_SP": 20.6,
+      "Dirce Reis_SP": 14.28
+    },
+    "Curral Novo do Piauí_PI": {
+      "Paulistana_PI": 10.67,
+      "Simões_PI": 18.12
+    },
+    "Seropédica_RJ": {
+      "Itaguaí_RJ": 15.88,
+      "Paracambi_RJ": 11.52
+    },
+    "Peixoto de Azevedo_MT": {
+      "Matupá_MT": 14.29,
+      "Terra Nova do Norte_MT": 32.14
+    },
+    "São João do Pau d'Alho_SP": {
+      "Santa Mercedes_SP": 9.45,
+      "Castilho_SP": 6.06
+    },
+    "Tupanciretã_RS": {
+      "Cruz Alta_RS": 41.64,
+      "Júlio de Castilhos_RS": 19.64
+    },
+    "Silveira Martins_RS": {
+      "Santa Maria_RS": 12.17,
+      "Júlio de Castilhos_RS": 13.59
+    },
+    "Cordilheira Alta_SC": {
+      "Xaxim_SC": 7.94,
+      "Chapecó_SC": 17.11
+    },
+    "Trindade do Sul_RS": {
+      "Liberato Salzano_RS": 0.67,
+      "Nonoai_RS": 6.6
+    },
+    "Canaã dos Carajás_PA": {
+      "Parauapebas_PA": 50.14
+    },
+    "Trairão_PA": {
+      "Itaituba_PA": 20.62
+    },
+    "Couto de Magalhães de Minas_MG": {
+      "Diamantina_MG": 22.03,
+      "Rio Vermelho_MG": 27.91
+    },
+    "Presidente Venceslau_SP": {
+      "Panorama_SP": 17.5,
+      "Piquerobi_SP": 15.64,
+      "Caiuá_SP": 20.55
+    },
+    "Novo Horizonte_SC": {
+      "São Lourenço do Oeste_SC": 4.05
+    },
+    "Monte Castelo_SP": {
+      "Nova Independência_SP": 1.21
+    },
+    "Cristalina_GO": {
+      "Brasília_DF": 47.94,
+      "Unaí_MG": 78.16
+    },
+    "Clevelândia_PR": {
+      "Mariópolis_PR": 22.83,
+      "Palmas_PR": 19.09,
+      "Abelardo Luz_SC": 18.2
+    },
+    "Terezópolis de Goiás_GO": {
+      "Goianápolis_GO": 8.17
+    },
+    "Barcarena_PA": {
+      "Abaetetuba_PA": 18.49
+    },
+    "Vitória do Mearim_MA": {
+      "Arari_MA": 24.13,
+      "Igarapé do Meio_MA": 20.25
+    },
+    "São Félix do Coribe_BA": {
+      "Jaborandi_BA": 28.72,
+      "Serra do Ramalho_BA": 49.35
+    },
+    "Nova Lima_MG": {
+      "Belo Horizonte_MG": 0.12
+    },
+    "Petrópolis_RJ": {
+      "Duque de Caxias_RJ": 30.19,
+      "Areal_RJ": 26.04
+    },
+    "Chapadão do Sul_MS": {
+      "Costa Rica_MS": 1.01,
+      "Mineiros_GO": 28.51,
+      "Cassilândia_MS": 59.61
+    },
+    "Rafard_SP": {
+      "Capivari_SP": 5.45
+    },
+    "Muriaé_MG": {
+      "Patrocínio do Muriaé_MG": 5.59
+    },
+    "Moeda_MG": {
+      "Brumadinho_MG": 22.41,
+      "Belo Vale_MG": 3.74
+    },
+    "Virgolândia_MG": {
+      "Peçanha_MG": 15.41,
+      "Nacip Raydan_MG": 14.81
+    },
+    "Guaraí_TO": {
+      "Tupirama_TO": 34.71,
+      "Tupiratins_TO": 28.16
+    },
+    "Princesa_SC": {
+      "Dionísio Cerqueira_SC": 10.92,
+      "São José do Cedro_SC": 7.0
+    },
+    "Hortolândia_SP": {
+      "Campinas_SP": 5.92,
+      "Sumaré_SP": 9.36
+    },
+    "Apiúna_SC": {
+      "Indaial_SC": 17.21,
+      "Lontras_SC": 2.94,
+      "Ibirama_SC": 0.66
+    },
+    "Penha_SC": {
+      "Balneário Piçarras_SC": 6.68,
+      "Navegantes_SC": 4.79
+    },
+    "Adamantina_SP": {
+      "Flórida Paulista_SP": 13.31,
+      "Lucélia_SP": 9.61
+    },
+    "Pindobaçu_BA": {
+      "Antônio Gonçalves_BA": 14.57,
+      "Saúde_BA": 27.57
+    },
+    "Ibiassucê_BA": {
+      "Rio do Antônio_BA": 18.26,
+      "Caetité_BA": 31.89
+    },
+    "Vitor Meireles_SC": {
+      "Rio do Campo_SC": 0.08,
+      "José Boiteux_SC": 17.56
+    },
+    "Barra Velha_SC": {
+      "Araquari_SC": 17.2,
+      "Balneário Piçarras_SC": 11.2
+    },
+    "Cassilândia_MS": {
+      "Inocência_MS": 95.36,
+      "Chapadão do Sul_MS": 59.61
+    },
+    "Taquaritinga_SP": {
+      "Cândido Rodrigues_SP": 15.48,
+      "Santa Ernestina_SP": 15.69
+    },
+    "Lavrinhas_SP": {
+      "Queluz_SP": 13.93,
+      "Cruzeiro_SP": 11.44
+    },
+    "Itirapina_SP": {
+      "Brotas_SP": 18.7,
+      "São Carlos_SP": 26.79,
+      "Rio Claro_SP": 16.16
+    },
+    "Encruzilhada do Sul_RS": {
+      "Rio Pardo_RS": 10.42,
+      "Dom Feliciano_RS": 42.19
+    },
+    "Caiçara_RS": {
+      "Frederico Westphalen_RS": 7.78,
+      "Vicente Dutra_RS": 25.4
+    },
+    "Guarani d'Oeste_SP": {
+      "Fernandópolis_SP": 10.55,
+      "Ouroeste_SP": 21.35
+    },
+    "Gurupi_TO": {
+      "Aliança do Tocantins_TO": 49.4,
+      "Cariri do Tocantins_TO": 47.02
+    },
+    "São Bento do Una_PE": {
+      "Sanharó_PE": 15.0,
+      "Cachoeirinha_PE": 18.0
+    },
+    "São Pedro da Água Branca_MA": {
+      "Vila Nova dos Martírios_MA": 40.89,
+      "Bom Jesus do Tocantins_PA": 45.68
+    },
+    "Eugenópolis_MG": {
+      "Patrocínio do Muriaé_MG": 4.58
+    },
+    "São Brás do Suaçuí_MG": {
+      "Jeceaba_MG": 5.73,
+      "Entre Rios de Minas_MG": 13.79
+    },
+    "Indiara_GO": {
+      "Jandaia_GO": 22.83,
+      "Acreúna_GO": 28.8
+    },
+    "Santa Adélia_SP": {
+      "Pindorama_SP": 13.9,
+      "Fernando Prestes_SP": 12.81
+    },
+    "Paiçandu_PR": {
+      "Maringá_PR": 3.93
+    },
+    "Peixe_TO": {
+      "Paranã_TO": 78.22,
+      "Sucupira_TO": 36.83
+    },
+    "Júlio de Castilhos_RS": {
+      "São Martinho da Serra_RS": 9.37,
+      "Tupanciretã_RS": 19.64,
+      "Silveira Martins_RS": 13.59
+    },
+    "Palmares_PE": {
+      "Joaquim Nabuco_PE": 11.59,
+      "Bonito_PE": 17.08
+    },
+    "Brasnorte_MT": {
+      "Sapezal_MT": 114.31,
+      "Nova Maringá_MT": 107.31
+    },
+    "Caiuá_SP": {
+      "Presidente Venceslau_SP": 20.55
+    },
+    "Salesópolis_SP": {
+      "Biritiba Mirim_SP": 17.78,
+      "São Sebastião_SP": 30.13
+    },
+    "Aveiro_PA": {
+      "Rurópolis_PA": 34.88
+    },
+    "Simões_PI": {
+      "Araripina_PE": 19.11,
+      "Curral Novo do Piauí_PI": 18.12
+    },
+    "Bodocó_PE": {
+      "Parnamirim_PE": 30.98,
+      "Ouricuri_PE": 29.17
+    },
+    "Altinho_PE": {
+      "Agrestina_PE": 19.16,
+      "São Caitano_PE": 14.17
+    },
+    "Ouroeste_SP": {
+      "Iturama_MG": 32.79,
+      "Guarani d'Oeste_SP": 21.35
+    },
+    "São Miguel do Oeste_SC": {
+      "Paraíso_SC": 15.0,
+      "Descanso_SC": 12.81
+    },
+    "Custódia_PE": {
+      "Flores_PE": 31.66,
+      "Sertânia_PE": 42.23
+    },
+    "Jesúpolis_GO": {
+      "São Francisco de Goiás_GO": 6.06,
+      "Jaraguá_GO": 28.6
+    },
+    "Ribeiro Gonçalves_PI": {
+      "Loreto_MA": 42.88,
+      "Uruçuí_PI": 61.63
+    },
+    "Petrolina_PE": {
+      "Lagoa Grande_PE": 37.82
+    },
+    "Antônio Gonçalves_BA": {
+      "Pindobaçu_BA": 14.57
+    },
+    "Sarzedo_MG": {
+      "Ibirité_MG": 11.6,
+      "Mário Campos_MG": 9.98
+    },
+    "Itatiaia_RJ": {
+      "Resende_RJ": 13.9
+    },
+    "São Francisco do Sul_SC": {
+      "Balneário Barra do Sul_SC": 11.74
+    },
+    "Bom Jesus do Tocantins_PA": {
+      "São Pedro da Água Branca_MA": 45.68,
+      "Marabá_PA": 83.62
+    },
+    "Pilar de Goiás_GO": {
+      "Nova Iguaçu de Goiás_GO": 13.37,
+      "Santa Terezinha de Goiás_GO": 22.0
+    },
+    "Rodeio_SC": {
+      "Timbó_SC": 6.17,
+      "Benedito Novo_SC": 8.83
+    },
+    "São José do Cedro_SC": {
+      "Guaraciaba_SC": 9.45,
+      "Princesa_SC": 7.0
+    },
+    "Quintana_SP": {
+      "Herculândia_SP": 10.62,
+      "Pompéia_SP": 12.04
+    },
+    "Alto Horizonte_GO": {
+      "Mara Rosa_GO": 16.32,
+      "Nova Iguaçu de Goiás_GO": 15.74
+    },
+    "Medianeira_PR": {
+      "Serranópolis do Iguaçu_PR": 8.41,
+      "Matelândia_PR": 10.01
+    },
+    "Cariri do Tocantins_TO": {
+      "Figueirópolis_TO": 20.88,
+      "Gurupi_TO": 47.02
+    },
+    "Cruzeiro_SP": {
+      "Cachoeira Paulista_SP": 10.02,
+      "Lavrinhas_SP": 11.44
+    },
+    "Passa Vinte_MG": {
+      "Resende_RJ": 19.35,
+      "Santa Rita de Jacutinga_MG": 17.03
+    },
+    "Serra do Ramalho_BA": {
+      "Bom Jesus da Lapa_BA": 41.01,
+      "São Félix do Coribe_BA": 49.35
+    },
+    "Pinheiral_RJ": {
+      "Barra do Piraí_RJ": 17.8,
+      "Volta Redonda_RJ": 13.04
+    },
+    "Piritiba_BA": {
+      "Miguel Calmon_BA": 31.74,
+      "Mundo Novo_BA": 35.43
+    },
+    "São Gonçalo do Abaeté_MG": {
+      "João Pinheiro_MG": 71.89,
+      "Três Marias_MG": 45.85
+    },
+    "Iaçu_BA": {
+      "Itaberaba_BA": 33.39
+    },
+    "Matelândia_PR": {
+      "Céu Azul_PR": 25.89,
+      "Medianeira_PR": 10.01
+    },
+    "Campo Limpo de Goiás_GO": {
+      "Anápolis_GO": 9.86
+    },
+    "Italva_RJ": {
+      "Itaperuna_RJ": 41.6,
+      "Cardoso Moreira_RJ": 24.42
+    },
+    "Natalândia_MG": {
+      "Unaí_MG": 63.02,
+      "Dom Bosco_MG": 17.97
+    },
+    "Correntina_BA": {
+      "Santa Maria da Vitória_BA": 33.84,
+      "Jaborandi_BA": 12.61
+    },
+    "Itiquira_MT": {
+      "Rondonópolis_MT": 108.66,
+      "Alto Araguaia_MT": 80.19
+    },
+    "Limeira_SP": {
+      "Cordeirópolis_SP": 15.09,
+      "Americana_SP": 16.2
+    },
+    "Alto Taquari_MT": {
+      "Alto Araguaia_MT": 47.67,
+      "Costa Rica_MS": 48.6
+    },
+    "Caarapó_MS": {
+      "Juti_MS": 37.31,
+      "Dourados_MS": 34.7
+    },
+    "Meridiano_SP": {
+      "Fernandópolis_SP": 13.58,
+      "Valentim Gentil_SP": 12.45
+    },
+    "São José do Rio Preto_SP": {
+      "Mirassol_SP": 19.34,
+      "Cedral_SP": 16.06
+    },
+    "Mário Campos_MG": {
+      "São Joaquim de Bicas_MG": 4.84,
+      "Sarzedo_MG": 9.98
+    },
+    "Rio Acima_MG": {
+      "Itabirito_MG": 12.87
+    },
+    "Madre de Deus de Minas_MG": {
+      "Andrelândia_MG": 15.75,
+      "São João del Rei_MG": 22.23
+    },
+    "Saúde_BA": {
+      "Caém_BA": 22.82,
+      "Pindobaçu_BA": 27.57
+    },
+    "Volta Redonda_RJ": {
+      "Barra Mansa_RJ": 9.33,
+      "Pinheiral_RJ": 13.04
+    },
+    "Paraíso do Tocantins_TO": {
+      "Porto Nacional_TO": 16.45
+    },
+    "Porto Franco_MA": {
+      "Estreito_MA": 21.09,
+      "Campestre do Maranhão_MA": 26.18
+    },
+    "Santa Rita de Jacutinga_MG": {
+      "Bom Jardim de Minas_MG": 13.76,
+      "Passa Vinte_MG": 17.03
+    },
+    "Landri Sales_PI": {
+      "Sebastião Leal_PI": 8.68
+    },
+    "Campos dos Goytacazes_RJ": {
+      "Cardoso Moreira_RJ": 26.49
+    },
+    "Cocalinho_MT": {
+      "Aruanã_GO": 53.91,
+      "Nova Nazaré_MT": 69.22
+    },
+    "Irapuru_SP": {
+      "Pacaembu_SP": 9.48,
+      "Junqueirópolis_SP": 10.1
+    },
+    "Bacabeira_MA": {
+      "São Luís_MA": 34.66,
+      "Santa Rita_MA": 27.8
+    },
+    "Araguaína_TO": {
+      "Babaçulândia_TO": 55.99,
+      "Palmeirante_TO": 50.56
+    },
+    "Jaguarão_RS": {
+      "Herval_RS": 46.09
+    },
+    "Parapuã_SP": {
+      "Iacri_SP": 13.34,
+      "Osvaldo Cruz_SP": 14.48
+    },
+    "Nova Santa Rita_PI": {
+      "Bela Vista do Piauí_PI": 9.88
+    },
+    "Junqueirópolis_SP": {
+      "Dracena_SP": 16.29,
+      "Irapuru_SP": 10.1
+    },
+    "Itaueira_PI": {
+      "Flores do Piauí_PI": 18.03,
+      "Rio Grande do Piauí_PI": 20.59
+    },
+    "Dom Feliciano_RS": {
+      "Amaral Ferrador_RS": 37.64,
+      "Encruzilhada do Sul_RS": 42.19
+    },
+    "Itagibá_BA": {
+      "Aiquara_BA": 18.75,
+      "Gongogi_BA": 17.65
+    },
+    "Marabá_PA": {
+      "Curionópolis_PA": 64.17,
+      "Bom Jesus do Tocantins_PA": 83.62
+    },
+    "Catanduvas_PR": {
+      "Cascavel_PR": 5.7,
+      "Três Barras do Paraná_PR": 6.61
+    },
+    "Nova Maringá_MT": {
+      "São José do Rio Claro_MT": 47.34,
+      "Brasnorte_MT": 107.31
+    },
+    "Vilhena_RO": {
+      "Comodoro_MT": 90.44
+    },
+    "Dourados_MS": {
+      "Itaporã_MS": 33.79,
+      "Caarapó_MS": 34.7
+    },
+    "Uruçuca_BA": {
+      "Ilhéus_BA": 23.54,
+      "Aurelino Leal_BA": 21.33
+    },
+    "Ouro Branco_MG": {
+      "Congonhas_MG": 1.84,
+      "Conselheiro Lafaiete_MG": 0.59
+    },
+    "Santos_SP": {
+      "Cubatão_SP": 6.78,
+      "São Vicente_SP": 11.02,
+      "Guarujá_SP": 8.86
+    },
+    "São Vicente_SP": {
+      "Cubatão_SP": 9.84,
+      "Santos_SP": 11.02,
+      "Praia Grande_SP": 10.21,
+      "São Paulo_SP": 17.2
+    },
+    "São Lourenço da Serra_SP": {
+      "Itapecerica da Serra_SP": 2.82
+    },
+    "Sabará_MG": {
+      "Belo Horizonte_MG": 7.77
+    },
+    "Prudente de Morais_MG": {
+      "Sete Lagoas_MG": 7.61,
+      "Capim Branco_MG": 4.12
+    },
+    "Paulínia_SP": {
+      "Paulínia_SP": 5.86,
+      "Campinas_SP": 5.55
+    },
+    "Penaforte_CE": {
+      "Salgueiro_PE": 5.77,
+      "Jati_CE": 12.54
+    },
+    "Itapecerica da Serra_SP": {
+      "São Lourenço da Serra_SP": 2.82,
+      "Cotia_SP": 13.37,
+      "Embu-Guaçu_SP": 11.68
+    },
+    "Brejo Santo_CE": {
+      "Porteiras_CE": 12.93,
+      "Abaiara_CE": 17.93
+    },
+    "Cotia_SP": {
+      "Itapecerica da Serra_SP": 13.37,
+      "São Roque_SP": 19.38
+    },
+    "Praia Grande_SP": {
+      "São Vicente_SP": 10.21
+    },
+    "Alumínio_SP": {
+      "Mairinque_SP": 6.43
+    },
+    "Itu_SP": {
+      "Salto_SP": 18.93,
+      "Mairinque_SP": 22.13
+    },
+    "Salto_SP": {
+      "Itu_SP": 18.93,
+      "Indaiatuba_SP": 13.8
+    },
+    "Mairinque_SP": {
+      "Alumínio_SP": 6.43,
+      "Itu_SP": 22.13,
+      "São Roque_SP": 14.84
+    },
+    "Guarujá_SP": {
+      "Santos_SP": 8.86
+    },
+    "Capim Branco_MG": {
+      "Prudente de Morais_MG": 4.12,
+      "Matozinhos_MG": 4.86
+    },
+    "Sete Lagoas_MG": {
+      "Prudente de Morais_MG": 7.61
+    },
+    "Matozinhos_MG": {
+      "Capim Branco_MG": 4.86,
+      "Pedro Leopoldo_MG": 10.35
+    },
+    "Pedro Leopoldo_MG": {
+      "Matozinhos_MG": 10.35,
+      "São José da Lapa_MG": 10.2
+    },
+    "São José da Lapa_MG": {
+      "Pedro Leopoldo_MG": 10.2,
+      "Vespasiano_MG": 8.37
+    },
+    "Jati_CE": {
+      "Penaforte_CE": 12.54,
+      "Porteiras_CE": 9.57
+    },
+    "Porteiras_CE": {
+      "Brejo Santo_CE": 12.93,
+      "Jati_CE": 9.57
+    },
+    "Betim_MG": {
+      "Contagem_MG": 8.33
+    },
+    "Abaiara_CE": {
+      "Brejo Santo_CE": 17.93,
+      "Milagres_CE": 12.7
+    },
+    "Vespasiano_MG": {
+      "São José da Lapa_MG": 8.37,
+      "Santa Luzia_MG": 12.79
+    },
+    "Missão Velha_CE": {
+      "Milagres_CE": 7.58
+    },
+    "Santa Luzia_MG": {
+      "Belo Horizonte_MG": 12.35,
+      "Vespasiano_MG": 12.79
+    },
+    "Milagres_CE": {
+      "Abaiara_CE": 12.7,
+      "Missão Velha_CE": 7.58
+    },
+    "São Roque_SP": {
+      "Cotia_SP": 19.38,
+      "Mairinque_SP": 14.84
+    },
+    "Embu-Guaçu_SP": {
+      "Itapecerica da Serra_SP": 11.68,
+      "São Paulo_SP": 20.12
+    }
+  }
+}

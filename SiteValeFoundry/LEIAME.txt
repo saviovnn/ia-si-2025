@@ -1,0 +1,16 @@
+# Requisitos para rodar o site da Vale Foundry
+
+## Requisitos
+- Node.js 18+ instalado
+- npm ou yarn
+
+## Instalação e execução
+
+# Instale as dependências
+npm install
+
+# Rode o servidor de desenvolvimento
+npm run dev
+
+## Acesso
+O site pode ser acessado em: https://saviovnn.github.io/vale-foundry/

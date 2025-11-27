@@ -1,0 +1,65 @@
+# Locomotiva - Guia de Instalação e Execução
+# Sávio Jenner Vianna Silva Rennó
+
+# (8) Planejamento de abastecimento linha
+  • Objetivo: rotas de trens logísticos atendendo múltiplas estações sob janelas.
+
+# video : https://www.youtube.com/watch?v=zYT4hnvumOs
+
+## 📋 Pré-requisitos
+
+- Python 3.8+ instalado
+- Node.js 16+ e npm instalados
+
+---
+
+## Instalação
+
+### 1. Instalar dependências da API (Backend)
+
+```bash
+cd locomotiva-api
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+### 2. Instalar dependências do Frontend
+
+```bash
+cd locomotiva-front
+npm install
+```
+
+---
+
+## Como Rodar
+
+### Rodar a API (Backend)
+
+```bash
+cd locomotiva-api
+source venv/bin/activate
+uvicorn main:app --reload
+```
+
+A API estará disponível em: `http://localhost:8000`
+Documentação: `http://localhost:8000/docs`
+
+### Rodar o Frontend
+
+```bash
+cd locomotiva-front
+npm run dev
+```
+
+O frontend estará disponível em: `http://localhost:5173` (ou outra porta indicada no terminal)
+
+---
+
+## Notas
+
+- Mantenha ambos os serviços rodando simultaneamente
+- A API precisa estar rodando antes de usar o frontend
+- Use `Ctrl+C` para parar os serviços
+
