@@ -37,5 +37,6 @@ Fundada (ficticiamente) em 1987 e sediada em **Taubaté-SP**, a Vale Foundry é 
 
 Um agradecimento especial ao professor **Luis Fernando de Almeida**, por nos proporcionar este desafio prático. A metodologia de aplicar conceitos teóricos de IA em um cenário empresarial simulado e integrado (Vale Foundry) foi fundamental para compreendermos a complexidade e o valor real das soluções inteligentes na indústria.
 
+![WhatsApp Image 2025-11-26 at 21 40 25](https://github.com/user-attachments/assets/e5624441-263e-420f-b9ad-0fe06e9b9786)
 
 *Projeto desenvolvido para fins acadêmicos - UNITAU 2025.*
