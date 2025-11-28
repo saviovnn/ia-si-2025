@@ -1,0 +1,21 @@
+(13) Otimização de rota de robô dentro de ambiente fechado.
+- Objetivo: encontrar rotas dentro de uma sala, desviando dos obstáculos.
+
+Pelos alunos:
+Caio Henrique da Silva Santos
+Leonardo Yan Corrêa Cordeiro
+
+=== Projeto
+Biblioteca: tkinter
+
+No CMD ou IDE com o projeto aberto, abra o terminal é digite "python app.py" é o programa irá abrir.
+
+=== Executável
+Abra a pasta do app é clique duas vezes do executável.  
+
+=== Durante o programa
+Na interface do programa você poderá ver uma representação do chão da linha de produção (mais informações da imagem "LegendasDoMapa") e botões para controlar a simulação, como:
+- Iniciar/reiniciar a simulação.
+- Desligar a simulação.
+- Mudar a velocidade da simulação em três níveis.
+- Colocar e tirar três obstáculos no percurso dos AMRs.
