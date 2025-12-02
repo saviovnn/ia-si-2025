@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Busca em Grid</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100 p-6">
+<div class="grid md:grid-cols-2 2xl:grid-cols-3 gap-5">
+
+  <div class="bg-white p-6 rounded-2xl shadow flex flex-col">
+    <h1 class="text-xl font-bold mb-4">Configuração da Busca</h1>
+
+    <label class="block mb-2 text-gray-700">Início:</label>
+    <select id="startNode" class="w-full p-2 border rounded mb-4"></select>
+
+    <label class="block mb-2 text-gray-700">Finais (até 3):</label>
+    <div id="endNodesContainer" class="flex gap-2 mb-4"></div>
+
+    <label class="block mb-2 text-gray-700">Método de Busca:</label>
+    <select id="searchMethod" class="w-full p-2 border rounded mb-4"></select>
+
+    <label id="labelLimite" class="block mb-2 text-gray-700 hidden">Limite da busca:</label>
+    <input id="inputLimite" type="number" class="w-full p-2 border rounded mb-4 hidden" value="10" min="1">
+
+    <button onclick="buscarRota()" class="bg-blue-600 text-white px-4 py-2 rounded shadow hover:bg-blue-700">
+      Buscar Rota
+    </button>
+
+    <div id="mensagemErro" class="mt-4 text-red-600 font-bold"></div>
+  </div>
+
+  <div class="bg-white p-6 rounded-2xl shadow flex flex-col overflow-auto">
+    <h1 class="text-xl font-bold mb-4 text-center">Representação do Grid</h1>
+    <div id="grid" class="grid gap-0 flex justify-center"></div>
+  </div>
+
+  <div class="bg-gray-50 p-4 rounded shadow">
+    <h2 class="text-lg font-bold mb-2">Caminho Encontrado:</h2>
+    <div id="pathOutput" class="text-gray-700">Nenhum caminho ainda...</div>
+  </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
