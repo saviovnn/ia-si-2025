@@ -1,0 +1,62 @@
+## Otimização de Logística para Vale Foundry
+
+Este projeto foi desenvolvido para a Vale Foundry, uma empresa fictícia, com o objetivo principal de otimizar a logística de entrega de produtos entre cidades. A meta é aprimorar o planejamento de rotas para caminhões de entrega, buscando eficiência e redução de custos operacionais.
+
+## Objetivo
+
+Otimizar as rotas de caminhões de entrega de produtos, determinando o melhor caminho entre uma cidade de origem e uma cidade de destino, utilizando algoritmos de busca em grafos.
+
+## Funcionalidades Implementadas
+
+O sistema oferece uma interface gráfica (GUI) que permite ao usuário:
+
+* Visualizar o grafo de cidades.
+* Seleção de origem e destino.
+* Múltiplos métodos de busca:
+    * Buscas Não Ponderadas:
+        * Busca em Largura (BFS)
+        * Busca em Profundidade (DFS)
+        * Profundidade Limitada (DLS)
+        * Aprofundamento Iterativo (IDDFS)
+        * Busca Bidirecional
+    * Buscas Ponderadas (com Heurísticas):**
+        * Custo Uniforme (UCS)
+        * Greedy
+        * A*
+        * AIA*
+* Exibição de Resultados.
+* Destaque da Rota.
+
+## Estrutura do Grafo
+
+O grafo de cidades é construído a partir de um arquivo CSV (`grafo.csv`), que define as conexões e as distâncias (pesos) entre as cidades. As coordenadas geográficas das cidades são utilizadas para a visualização no mapa.
+
+## Heurísticas utilizadas
+
+Para os métodos de busca informada (Greedy, A\*, AIA\*), foi implementada uma heurística baseada nas distâncias diretas (em linha reta) entre as cidades, conforme fornecido na matriz de adjacências do `grafo.csv`. Esta heurística é admissível e consistente, contribuindo para a eficiência dos algoritmos.
+
+## Como executar o projeto
+
+1. Pré-requisitos:
+    * Python 3.x
+    * Bibliotecas: `pandas`, `networkx`, `matplotlib`, `tkinter`
+    * Certifique-se de ter os arquivos `BuscaNP.py`, `BuscaP.py`, `Node.py` e `NodeP.py` no mesmo diretório do arquivo principal.
+    * O arquivo `grafo.csv` deve estar presente no diretório raiz do projeto.
+
+2. Instalação das Dependências (se necessário):
+    ```bash
+    pip install pandas networkx matplotlib
+    ```
+
+3. Execução:
+    ```bash
+    python script.py # Substitua pelo nome do seu arquivo Python principal
+    ```
+
+## Desenvolvedores
+
+* Pedro Nelson
+* Pedro Ernesto
+
+---
+Este projeto foi desenvolvido como parte de um trabalho do curso Inteligência Artificial de Sistemas de Informação no ano de 2025.

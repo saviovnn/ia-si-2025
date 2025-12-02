@@ -29,7 +29,8 @@ Fundada (ficticiamente) em 1987 e sediada em **Taubaté-SP**, a Vale Foundry é 
 ## 👨‍💻 Autores e Contribuidores
 
 * **Sávio** - *Módulo 8 (Abastecimento de Linha)*
-* **Leonardo e Caio** - *Módulo 13 (Otimização de rota de robô dentro de ambiente fechado.)*
+* **Leonardo e Caio** - *Módulo 13 (Otimização de rota de robô dentro de ambiente fechado)*
+* **Pedro Nelson e Pedro Enersto** - *Módulo 10 (Logística para entrega de produtos para cidades)*
 
 ---
 

@@ -1,0 +1,4 @@
+Logística para entrega de produtos para cidades. 
+
+• Objetivo: otimizar rota de caminhão de entrega de produtos de uma cidade 
+para outra. 
