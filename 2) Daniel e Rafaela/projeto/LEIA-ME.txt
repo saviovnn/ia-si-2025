@@ -1,0 +1,93 @@
+------------------------------------------------------------------------
+
+Guia de Instalação e Execução – Projeto Armazém (Picking e Slotting)
+
+------------------------------------------------------------------------
+
+Alunos:
+Daniel Mesquita e Rafaela de Abreu
+------------------------------------------------------------------------
+
+Objetivo do Sistema:
+Coletar pedidos e organizar endereços para reduzir caminhadas.
+------------------------------------------------------------------------
+
+Funcionalidades Implementadas
+
+O sistema oferece uma interface gráfica que permite ao usuário:
+
+  1. Visualizar o trajeto de entrega dos itens até o último item selecionado.
+  2. Selecionar os produtos que serão guardados.
+  3. Utilizar múltiplos métodos de busca (A*).
+  4. Visualizar a ordem de entrega dos produtos.
+  5. Destacar a rota otimizada de deslocamento.
+
+------------------------------------------------------------------------
+
+Estrutura do Grid
+
+O grid do armazém é construído a partir do arquivo mapa.txt, que define  Os limites do armazém, a posição dos armários (slots) e as coordenadas geográficas dos produtos são utilizadas para visualização no mapa.
+
+------------------------------------------------------------------------
+
+Heurística Utilizada
+
+O método de busca A* foi empregado para encontrar caminhos mínimos com rapidez, explorando apenas rotas promissoras.
+Essa abordagem equilibra custo real e estimado para garantir eficiência.
+------------------------------------------------------------------------
+
+Instalação e dependências
+
+1. Pré-requisitos
+	Python 3.11 ou superior
+
+Bibliotecas necessárias:
+
+- matplotlib (visualização do grafo e grid)
+- tkinter (interface gráfica)
+- ttkbootstrap(temas modernos para widgets Tkinter)
+- numpy (manipulação de matrizes e cálculos no grid)
+
+2. Instalação
+  Instalar dependências
+    Via pip:
+	pip install matplotlib
+	pip install ttkbootstrap
+	pip install numpy
+
+
+    Via conda:
+        conda install -c conda-forge matplotlib
+	# ou
+	conda install matplotlib
+
+    Via pixi:
+	pixi add matplotlib
+
+    Via uv:
+	uv add matplotlib
+	uv add matplotlib pyside6
+	uv add numpy
+	uv add ttkbootstrap
+------------------------------------------------------------------------
+
+3. Compatibilidade
+
+	Debian/Ubuntu
+		sudo apt-get install python3-tk
+
+	Windows
+		python -m tkinter
+
+------------------------------------------------------------------------
+
+4. Como Rodar
+Para executar o projeto, utilize:
+
+	python3 App.py
+
+------------------------------------------------------------------------
+Sobre o Projeto
+
+Este sistema foi desenvolvido como parte da disciplina Inteligência Artificial, do curso de Sistemas de Informação, no ano de 2025.
+
