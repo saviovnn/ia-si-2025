@@ -1,0 +1,195 @@
+11 - Logística patra entrega de produtos dentro de uma cidade
+objetivo: minimizar tempo de desenvolvimento de um software/sistema.
+
+Abaixo está um **guia passo a passo, detalhado e para iniciantes**, explicando exatamente o que você precisa para rodar um código Python que utiliza:
+
+```
+os, tkinter, ttk, messagebox, scrolledtext
+networkx
+matplotlib (FigureCanvasTkAgg, Figure)
+heapq
+json
+matplotlib.patches
+random
+```
+
+---
+
+# ✅ **1. Instalar o Python**
+
+Se você ainda não tem Python instalado:
+
+### **Windows**
+
+1. Baixe em: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Marque **“Add Python to PATH”**
+3. Clique em *Install Now*
+
+### **Linux (Ubuntu / Debian)**
+
+```bash
+sudo apt update
+sudo apt install python3 python3-pip python3-tk
+```
+
+### **MacOS**
+
+Baixe pelo site oficial ou instale via Homebrew:
+
+```bash
+brew install python
+brew install tcl-tk
+```
+
+---
+
+# ✅ **2. Verificar se o Python está funcionando**
+
+Abra o terminal / prompt de comando e digite:
+
+```bash
+python --version
+```
+
+ou
+
+```bash
+python3 --version
+```
+
+---
+
+# ✅ **3. Criar um ambiente virtual (OPCIONAL, mas recomendável)**
+
+No terminal:
+
+```bash
+python -m venv venv
+```
+
+Ativar:
+
+### Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+### Linux/Mac:
+
+```bash
+source venv/bin/activate
+```
+
+---
+
+# ✅ **4. Instalar as bibliotecas necessárias**
+
+### Bibliotecas padrão (já vêm com o Python)
+
+Você NÃO precisa instalar:
+
+* `os`
+* `heapq`
+* `json`
+* `random`
+* `tkinter` *(já vem no Windows/macOS, mas no Linux precisa instalar)*
+
+### Para Linux (caso não tenha tkinter):
+
+```bash
+sudo apt install python3-tk
+```
+
+---
+
+# 📦 **Instalar networkx e matplotlib**
+
+Essas são as únicas bibliotecas externas:
+
+```bash
+pip install networkx matplotlib
+```
+
+---
+
+# ⛔ IMPORTANTE: EVITAR ERRO COM MATPLOTLIB + TKINTER
+
+Se deseja que o matplotlib abra dentro do Tkinter (usando FigureCanvasTkAgg), certifique-se de instalar também o backend Tk:
+
+### Linux:
+
+```bash
+sudo apt install python3-tk
+```
+
+
+
+```python
+import os
+import tkinter as tk
+from tkinter import ttk, messagebox, scrolledtext
+import networkx as nx
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+from matplotlib.figure import Figure
+import heapq
+import json
+import matplotlib.patches as mpatches
+import random
+```
+
+e o restante do seu código.
+
+---
+
+# ✅ **6. Rodar o programa**
+
+No terminal:
+
+### Windows:
+
+```bash
+python app.py
+```
+
+### Linux/Mac:
+
+```bash
+python3 app.py
+```
+
+---
+
+# 📌 Problemas comuns e como resolver
+
+### ❗ Erro: `ModuleNotFoundError: No module named 'networkx'`
+
+→ Instalar novamente:
+
+```bash
+pip install networkx
+```
+
+### ❗ Erro: `No module named 'tkinter'`
+
+→ Linux:
+
+```bash
+sudo apt install python3-tk
+```
+
+→ Windows/macOS: reinstale o Python e marque **Add Tcl/Tk** (normalmente já vem).
+
+### ❗ Erro com matplotlib backend
+
+→ Instale:
+
+```bash
+pip install matplotlib
+```
+
+---
+
+# 🎉 Pronto! Agora seu código deve rodar sem erros
+
+
