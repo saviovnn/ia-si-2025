@@ -33,6 +33,7 @@ Fundada (ficticiamente) em 1987 e sediada em **Taubaté-SP**, a Vale Foundry é 
 * **Pedro Nelson e Pedro Enersto** - *Módulo 10 (Logística para entrega de produtos para cidades)*
 * **Felipe Machado e Vinicius de Oliveira** - *Módulo 5 (Amostragem adaptativa em linha)*
 * **Daniel e Rafaela** - *Módulo 2 (Armazém (picking e slotting))*
+* **João Pedro e Enzo** - *Módulo 11 (Logística para entrega de produtos dentro de uma cidade)*.
 
 ---
 
